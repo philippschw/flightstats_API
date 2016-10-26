@@ -1,0 +1,2084 @@
+fs,iata,icao,name,active
+FJE,FJE,Flyjet,false
+K4*,K4,Kronflyg,false
+NZM,NM,NZM,Mount Cook Airlines,true
+SCS,SCS,South African Non Schedules Airways,false
+FK*,FK,KEW,Kivalliq Air,true
+BBG,BZ,BBG,Blue Bird Airways,true
+SCY,SCY,Air Scandic,false
+SDA,S8,SDA,Sounds Air,true
+FJW,FJW,Fastjet Zimbabwe,true
+WLG,G6,WLG,Volga-Aviaexpress,false
+JT*,JT,LNI,Lion Air,true
+K5*,K5,ABE,Aban Air,false
+WLX,WLX,West Air Luxembourg,true
+BCC,8B,BCC,Business Air,true
+JSN,JSN,SunLink,true
+BCI,Blue Airlines,false
+SDY,SDY,Island Express,false
+FLB,4H,FLB,Fly S.A.,false
+JTF,JTF,Jet Time Finland,true
+SEQ,I6,SEQ,Sky Eyes,false
+BDI,BDI,BenAir,true
+FLM,Corendon Air,false
+FLT,B5,FLT,Flightline,false
+FLY,I4,FLY,I-Fly,true
+5L*,5L,Fly Salone,true
+FLX,FLX,Flight Express,true
+BDY,4V,BDY,Birdy Airlines,false
+SG1,SG,JGO,Jetsgo,false
+SFR,Swiss Federal Railways,true
+BF*,BF,RSR,Aero-Service,true
+BEL,"Transportes Aereos Belem Amazonia, S.A.",false
+BEK,Z9,BEK,Bek Air,true
+JUS,UJ,JUS,USA Jet Airlines,true
+BES,W4,BES,Aero Services,false
+SGG,DN,SGG,Senegal Airlines,true
+BEZ,BEZ,Kingfisher Air Service,true
+FNA,FNA,Norlandair,true
+SGO,IV,SGO,VVB Aviation Malta,true
+JW*,HK,Skippers Aviation,true
+WOW,Air Southwest,false
+SGX,SGX,Saga Airlines,true
+SHA,L3,SSX,Lynx Aviation,false
+SHE,SHE,Shell Aircraft,true
+FOB,FOB,Ford Motor,false
+BGA,4Y,BGA,Airbus Transport International,true
+JX*,JX,DAC Aviation,true
+K9*,KI,KrasAvia,true
+SHT,SHT,British Airways Shuttle,true
+FP*,FP,S.A.C.,true
+BGH,8H,BGH,BH Air,true
+FOM,FOM,Freedom Air,false
+SHY,ZY,SHY,Sky Airlines,true
+BGN,BGN,Air Inter Transport,true
+BGM,2B,BGM,Ak Bars Aero,true
+BGT,BGT,Bergen Air Transport,true
+SID,SID,Sideral Linhas Aereas,true
+OAE,OY,OAE,Omni Air International,true
+OAI,OD,OAI,Tor Air,false
+SIO,SIO,Sirio,true
+BHA,U4,BHA,Buddha Air,true
+SIR,SIR,Salair,true
+FQ*,HQ,TCW,Thomas Cook Belgium,true
+G2*,G2,Guinea Lineas Aereas,true
+FPO,S.F.A.,false
+BHL,BHL,Bristow Helicopters,true
+5P*,5P,BVR,ACM Air Charter,true
+OBE,BM,OBE,Air Bee S.p.A,false
+FQA,QO,FQA,Quikjet,true
+SJM,SJM,Sino Jet,true
+SJO,IJ,SJO,Spring Airlines Japan,true
+BIA,BIA,Baltic International Airlines,false
+JZ*,JZ,Jatayu Air,true
+BID,BID,BinAir,true
+BIE,ML,BIE,Air Mediterranee,true
+OBS,6O,OBS,Orbest S.A.,true
+9Y*,9Y,National Airways,true
+WSG,WT,WSG,Wasaya Airways,true
+SKB,Skybus Airlines,false
+X5*,X5,OTJ,Ten Airways,true
+SKG,GV,SKG,Sky Gabon,true
+SL*,SL,LTM,Thai Lion Air,true
+SKK,SLL,Skylink Aviation,true
+SKL,SKL,Skycharter,true
+SKQ,SKQ,LabCorp,true
+FRG,FRG,Freight Runners Express,true
+OCN,OCN,Octavia Airlines,false
+FS*,FS,STU,Fueguinos,false
+FRN,FRN,FirstNation Airways,true
+SLD,SLD,Silver Air,true
+SLC,SO,SLC,SALSA d Haiti,true
+OE*,OE,AOT,Asia Overnight Express,true
+FT*,FT,FEG,FlyEgypt,true
+SLX,SLX,SETE Linhas Aereas,true
+X7*,X7,Air Service,false
+5S*,5S,PSV,S.A.P.,true
+SMJ,Z3,SMJ,Avient Aviation,true
+SMR,SZ,SMR,Somon Air,true
+BLE,BLE,Blue Line,false
+FU*,FU,Fuzhou Airlines,true
+G6*,G6,AKW,Angkor Airways,false
+SNA,SNA,Senator Aviation Charter,true
+SNC,2Q,SNC,Air Cargo Carriers,true
+WW*,WW,WOW,WOW Air,true
+FTZ,FN,FTZ,Fastjet,true
+SNJ,6J,SNJ,Solaseed Air,true
+SO*,SO,Apex Airline,true
+SNK,SNK,Southeast Airlines,false
+FUA,FU,BudgetAir,true
+OG*,OG,TFR,Originair,true
+SNM,SNM,Servizi Aerei,true
+BN*,Horizon Airlines,false
+G71,G7,GNF,Gandalf Airlines,false
+BMR,BMR,bmi Regional,false
+BMY,BMY,Bimini Island Air,false
+SOO,9S,SOO,Southern Air,true
+SOP,SOP,Solinair,true
+BNC,BNC,Sundance Air,true
+BO*,BO,BGY,Bingo Airways,true
+BNW,BNW,British North West Airlines,false
+T2*,T2,Nakina Air Service,true
+SPN,H8,SPN,Sepahan Airlines,true
+OI*,OI,HND,Hinterland Aviation,true
+SPR,SPR,PAL Aerospace,false
+SPW,SPW,Speedwings,true
+BOI,BOI,Aboitiz Air,false
+OHY,8Q,OHY,Onur Air,true
+SQC,SQC,Singapore Airlines Cargo,true
+BOX,3S,BOX,AeroLogic,true
+SQH,SeaPort Airlines,false
+OJ*,OJ,Fly Jamaica Airways,true
+KAI,KI,KAI,Kaiser Air,true
+KAJ,5R,KAJ,Karthago Airlines,false
+BQ*,BQ,BKV,Bukovyna Airlines,true
+FXR,FXR,Foxair,true
+BPS,BPS,Base Kft,true
+G8x,G8,Unknown,false
+OJF,OJF,Occitania Jet Fleet,false
+T4*,T4,RDS,Rhoades Aviation,true
+SRN,SRN,Sprint Air,true
+BQB,5Q,BQB,BQB Lineas Aereas,true
+FYG,FYG,Flying Service,true
+FYN,FYN,Comfort Air,true
+SRY,VC,SRY,ViaAir,true
+KBZ,K7,KBZ,Air KBZ,true
+FYW,FYW,Flyways Linhas Aereas,true
+5Y*,5Y,IOS,Isles Of Scilly Skybus,true
+SSG,SSG,Slovak Government Flying Service,true
+KD*,KD,Western Global,true
+SSQ,SSQ,Sunstate Airlines,true
+BRB,BRB,BRA Transportes Aeroes (Brasair),false
+BS*,BS,US-Bangla Airlines,true
+C4*,C4,QAI,Conquest Air Cargo,true
+BRH,BRH,Star Air,true
+BRP,BRP,AeroBratsk,true
+BRW,BRW,Bright Aviation Services,false
+STP,Senegal Air Transport,false
+OLS,8R,OLS,SOL,true
+BSK,LL,BSK,Miami Air International,true
+KDS,KDS,Makani Kai Air,true
+SUA,SUA,Silesia Air,true
+SUB,SUB,Suburban Air Freight,true
+BST,BST,Bestair,false
+BSX,5B,BSX,Bassaka Air,true
+BSY,GQ,BSY,Big Sky Airlines,false
+BTA,Continental Express,false
+KEM,5Z,KEM,CemAir,true
+BU*,BU,CAA,true
+OMT,CC,OMT,CM Airlines,true
+BTK,AeroBratsk,false
+SVB,KT,SVB,SiAvia,true
+SVF,SVF,Swedish Air Force,true
+KFA,FK,KFA,Kelowna Flightcraft Air Charter,true
+BUC,H6,BUC,Bulgarian Air Charter,true
+SVW,SVW,Global Jet Luxembourg,true
+C7*,C7,CIN,Cinnamon Air,true
+KFS,K9,KFS,Kalitta Charters,true
+ONZ,ONZ,Jetconnect,false
+SWG,WG,SWG,Sunwing,true
+T9*,T9,AVV,Aviator,true
+OP*,OP,PPL,Air Pegasus,true
+SWQ,WQ,SWQ,Swift Air,true
+SWU,SWU,Swiss Global Air Lines,true
+SWT,WT,SWT,Swiftair,true
+KGO,ZC,KGO,Korongo Airlines,false
+BVI,XV,BVI,BVI Airways,true
+C8*,C8,Cronos Airlines,false
+SWZ,Servair Private Charter,false
+BVN,BVN,Baron Aviation Services,true
+KGZ,LK,KGZ,Kyrgyz Airlines,true
+P2*,P2,Panair,false
+KHH,KHH,Alexandria Airlines,true
+SXR,XW,SXR,Sky Express,false
+KI*,KI,KCA,Aviatrans K,false
+XAU,A8,XAU,Aerolink Uganda,true
+KHK,KW,KHK,Kharkiv Airlines,true
+OPT,OPT,Flight Options,true
+KHO,KHO,Aircompany KHORS,true
+C9*,C9,CLA Air Transport,false
+SYA,FS,SYA,Syphax Airlines,true
+1W*,1W,World Air Leasing - Gambia,false
+P3*,P3,Premier Trans Aire,false
+GAF,GAF,Luftwaffe,true
+BXI,BXI,Brussels International Airlines,false
+GAL,GAL,Alianza Glancelot C.A.,true
+XCA,XCA,Colt Cargo,true
+ORK,ORK,Orca Airways,true
+GBG,7G,GBG,Global Jet,true
+BZ*,BZ,BDA,Blue Dart Aviation,true
+GBQ,3G,GBQ,Gambia Bird,true
+BYU,BM,BYU,Bayu Indonesia,false
+OT*,OT,FlyPelican,true
+GCO,GCO,Gemini Air Cargo,false
+KLA,TT,KLA,Air Lithuania,false
+P6*,P6,PVG,Privilege Style,true
+KLS,KD,KLS,Kal Star Aviation,true
+KMA,KO,KMA,Komiaviatrans,true
+GEC,GEC,Lufthansa Cargo,true
+KN*,Maroomba Airlines,false
+KMV,Komiinteravia,false
+OVA,OVA,Aeronova,true
+KND,K8,KND,Kan Air,true
+GG*,GG,KYE,Sky Lease Cargo,true
+XJ*,XJ,TAX,Thai AirAsia X,true
+TAH,TAH,Air Moorea,true
+TAG,TAG,TAG Aviation USA,true
+OXE,OXE,Gregg Air,false
+TAN,B4,TAN,ZanAir,true
+TAS,TAS,Lotus Airlines,false
+GI*,GI,GMQ,Germania Express,true
+GHN,AG,GHN,Air Ghana,true
+GHY,GHY,German Sky Airlines,true
+KR*,O5,KMZ,Comores Aviation,false
+L3*,L3,JOS,DHL de Guatemala,true
+CAC,QC,CRC,Camair-Co,true
+CAE,CAE,Colibri Aviation,false
+GJ*,GJ,CDC,Zhejiang Loong Airlines,true
+CAD,8F,CAD,Cardig Air,true
+CAI,XC,CAI,Corendon Air,true
+CB*,CB,Trans Caribbean Air,true
+TBZ,I3,TBZ,ATA Airlines,true
+CAO,CAO,Air China Cargo,true
+6I*,6I,MMD,Air Alsie,true
+L4*,L4,LGC,Legacy Air,true
+KRL,KRL,Kiwi Regional Airlines,true
+KRN,U5,KRN,Karinou Airlines,true
+TCX,MT,TCX,Thomas Cook Airlines,true
+CC*,CC,Macair Airlines,false
+GJT,GJT,Girjet,false
+XM*,XM,XME,Qantas Freight,true
+TE*,TE,IGA,Sky Taxi,true
+XM1,XM,JLJ,J-Air,true
+L5*,L5,LTR,Lufttransport,true
+TDR,C3,TDR,Trade Air,true
+GL*,GL,Airglow Aviation Services,true
+KSM,KSM,Kosmos Airlines,true
+CCG,CQ,CCG,Czech Connect,false
+CCI,PT,CCI,Capital Cargo International,false
+CCQ,CCQ,Mustang Aviation,true
+KTB,KTB,TransAviaBaltika,true
+KTK,ZF,KTK,AZUR Air,true
+GM*,GM,GSW,Germania Flug,true
+TEZ,TEZ,Tez Jet,true
+XNA,XNA,Express.Net Airlines,false
+KTS,KTS,Kotlas Air,true
+XO*,XO,SGD,South East Asian Airlines (SEAIR),true
+2D*,2D,DYA,Dynamic Airways,true
+GMA,GMA,Gama Aviation,true
+TFL,Arke Fly,false
+GMT,GMT,Magnicharters,true
+XOJ,XOJ,XOJET,true
+6M*,6M,EUP,Euroair,false
+CEY,Y2,CEY,Air Century,true
+TH*,TH,BRT,BA Connect,false
+TGN,IL,TGN,Trigana Air,true
+TGO,TGO,Transport Canada,true
+CFA,CFA,China Flying Dragon Aviation,true
+L8*,L8,Laparkan Airways,false
+GO*,GO,KZU,ULS Airlines Cargo,true
+TGU,5U,TGU,TAG,true
+GNX,GNX,Genex,true
+Y2*,Y2,RGN,Cygnus Air,true
+CFV,CFV,Aereo Calafia,true
+2F*,2F,AFU,Afrinat International,true
+Y21,Y2,Alliance Air,false
+GP*,G5,GES,Gestair,true
+THU,THU,Thunder Airlines,true
+CGD,CGD,"Charlotte, NC Air National Guard",true
+CGH,GT,CGH,Air Guilin,true
+CGL,CGL,Seagle Air,false
+GOT,GOT,Waltair Europe,true
+CGT,CGT,"CNG-Transavia, Joint-Stock Company",false
+GOZ,ZG,GOZ,Groznyy Avia,true
+CGZ,GY,CGZ,Colorful Guizhou Airlines,true
+PAG,YP,PAG,Perimeter Aviation,true
+PAM,PAM,MAP Linhas Aereas,true
+TIT,TIT,Titan Aircompany,false
+PAO,OL,PAO,Polynesian Airlines,true
+CHI,CHI,Cougar Helicopters,true
+PAU,P7,PAU,Palau Airways,true
+2H*,2H,Thalys International,true
+PBI,PBN,Virgin Australia (NZ),true
+PBL,PBL,Virgin Samoa,true
+GR*,GR,Gemini Air Cargo,false
+H3*,H3,HRM,Hermes Airlines,true
+XT*,XT,IDX,Indonesia AirAsia X,true
+Y5*,Y5,GMR,Golden Myanmar Airlines,true
+TL*,TL,ANO,Airnorth,true
+KZH,KZH,Zhezair,true
+GRE,GRE,Air Scotland,false
+PCM,PCM,West Air (USA),true
+TLA,TLA,Translift Airways,false
+TLB,L5,TLB,Atlantique Air Assistance,true
+TLE,TLE,AIR TOULOUSE,false
+Y6*,DI,Cambodia Airlines,false
+6R*,6R,DRU,Alrosa Air,true
+TLG,IN,TLG,InvestAvia,true
+PE*,PE,PAQ,Pacific Air Express,true
+GT*,GT,AJD,Vista Georgia,true
+H5*,H5,Haiti Aviation,true
+PDT,PT,PDT,Piedmont Airlines,true
+TLX,TLX,"Telesis Transair, Inc.",false
+CKL,CKL,Aviation Charter Services,true
+GSS,XH,GSS,Global Supply Systems,true
+GSW,ND,GSW,Skywings,false
+6S*,6S,Saudi Gulf,true
+PEA,PEA,Pan Europeenne Air Service,true
+TMG,GM,TMG,Tri-MG Intra Asia Airlines,true
+GTA,E8,GTA,City Airways,true
+PEP,PEP,PENTA,false
+PER,PER,Petroleum Air Services,true
+CLG,Chalair Aviation,false
+CLJ,CLJ,Cello Aviation,true
+PEV,PE,PEV,Peoples Viennaline,true
+XW*,XW,NCT,NokScoot,true
+Y8*,Aircompany Yakutia,false
+CLS,CLS,Challenge Air,true
+6T*,6T,Almaty Aviation,false
+CLU,CLU,Triple Alpha,false
+CME,CME,Prince Edward Air,false
+TNU,8B,TNU,TransNusa,true
+TNT,Trans North Turbo Air,false
+6U*,6U,Unique Air,true
+CMV,3C,CMV,Calima Aviacion,true
+TOM,BY,TOM,Thomson,true
+CND,CD,CND,Corendon Dutch Airlines,true
+TOS,9N,TOS,Tropic Air,true
+GW*,GW,SGR,Skygreece Airlines,false
+PGT,Pegasus,false
+TOW,T2,TOW,AirTanker Services Limited,true
+CO*,CO,FCB,Cobaltair,true
+CNK,CNK,Sunwest Aviation,true
+TPS,TPS,TAPSA Aviacion,true
+GX*,GX,Guangxi Beibu Gulf Airlines,true
+H9*,H9,HIM,Himalaya Airlines,true
+TPU,TACA Peru,false
+XXX,Airline,false
+CON,CON,ConocoPhillips,true
+78*,MASwings (dupe),false
+LAE,L7,LAE,LATAM Cargo Colombia,true
+LB*,LB,Air Costa,true
+GY*,GY,BIS,Sky Bishkek,false
+CPH,CPH,Champagne Airlines,false
+GXL,X4,GXL,XL Airways Germany,false
+CQ*,CQ,CSV,Coastal Aviation,true
+LAV,AP,LAV,AlbaStar,true
+LAU,LAU,Lineas Aereas Suramericanas,true
+TRA,6T,Turks Air,true
+CPT,CPT,Corporate Air,true
+TRK,TRK,Turkuaz Airlines,false
+TRJ,2T,TRJ,TruJet,true
+LC*,LC,ECAir,true
+TRQ,3T,TRQ,Tarco Air,true
+LBQ,LBQ,Quest Diagnostics,true
+CQN,OQ,CQN,Chongqing Airlines,true
+GZA,GZA,Excellent Air,false
+PL*,PL,Southern Air Charter,true
+CRA,C8,CRA,Cronos Airlines,true
+LCI,LF,LCI,Lao Central Airlines,true
+TST,TST,Trast,true
+LCT,YQ,LCT,TAR Aerolineas,true
+GZQ,Z4,GZQ,ZagrosJet,true
+TTL,TTL,Total Linhas Aereas,true
+TTW,IT,TTW,Tigerair Taiwan,true
+D5*,DHL Aero Expreso,false
+CSJ,CSJ,Castle Aviation,true
+2S*,2S,KJA,Kinda Airlines,true
+U7*,U7,UCG,Uniworld Air Cargo,true
+CTA,CTA,Aero Charter and Transport,true
+TUX,2T,Tulpar Air Service,false
+TUY,L4,TUY,LTA,true
+LET,LET,Aerolineas Ejecutivas,true
+02,Oceanic,false
+03,O3,Bellview Airlines,false
+CTV,QG,CTV,Citilink,true
+07,O7,OzJet,false
+CTW,CTW,PanAir Cargo,true
+TVJ,VZ,TVJ,Thai Vietjet Air,true
+LFE,LFE,Luxflight Executive,false
+TVQ,6D,TVQ,Travel Service Slovakia,true
+TVP,3Z,TVP,Travel Service Polska,true
+0A,0A,GNT,Amber Air,false
+TVR,T6,TVR,Tavrey Air Company,true
+0B,0B,BMS,Blue Air,true
+LFM,3I,LFM,Airlift Service,false
+0C,0C,IBL,Catoair,false
+CV*,CV,CVA,Air Chathams,true
+0G,G6,GHT,Ghadames Air,true
+0K,0K,KRT,Aircompany Kokshetau,false
+CUO,CUO,Aero Cuahonte,true
+TWB,TW,TWB,T'Way Air,true
+0P,0P,PPC,Palau Asia Pacific Air,false
+0Q,0Q,HYD,Hydro - Quebec,true
+CUT,CUT,Court Helicopters,true
+TWE,TWE,Transwede,false
+TWG,TZ,TWG,Air-Taxi Europe,true
+0V,0V,VFC,VASCO,true
+TWJ,TWJ,Twinjet Aviation,true
+0W,0W,West Caribbean Costa Rica,false
+POE,Porter Airlines,false
+TWI,TI,TWI,Tailwind,true
+0Y,0Y,Yeti Airlines,false
+TWN,V2,TWN,Avialeasing,true
+LGE,LGE,Lego,false
+1A,AirNet Systems,false
+1B,1B,British Airways Cargo,true
+1F,1F,Forward Air,true
+1G,1G,Eva Airways Cargo,true
+1H,1H,Asiana Airways Cargo,true
+CW*,CW,CCC,Air Cargo Global,true
+D8*,D8,IBK,Norwegian Air International,true
+1I,1I,EJA,NetJets Aviation,true
+1J,1J,JAL Cargo,true
+1K,1K,Korean Air Cargo,true
+1L,1L,Dragonair Cargo,true
+1M,1M,China Airlines Cargo,true
+1N,1N,ANA Cargo,true
+YB*,YB,BRJ,Bora Jet,true
+1X,1X,Buzz Airways,true
+LHI,Lufthansa Italia,false
+2A,2A,DBB,Deutsche Bahn,true
+2B,2B,ARD,Aerocondor,false
+2D,2D,DBK,Dubrovnik Airline,false
+2E,2E,Smokey Bay Air,true
+2F,2F,FTA,Frontier Flying Service,1-800-478-6779,true
+2G,2G,CRG,CargoItalia,false
+2H,Amsterdam Airlines,false
+LHS,LHS,Lugansk Airlines,false
+2I,2I,SRU,Star Peru,true
+TXZ,EX,TXZ,Thai Express,true
+2J,2J,VBW,Air Burkina,true
+2K,2K,GLG,AeroGal,true
+2L,2L,OAW,Helvetic Airways,true
+2M,2M,MDV,Moldavian Airlines,true
+2N,2N,NTJ,NextJet,true
+2O,2O,RNE,Island Air Service,true
+TYA,Y7,TYA,NordStar Airlines,true
+2P,2P,GAP,PAL Express,true
+2Q,2Q,ETS,Avitrans Nordic AB,false
+2R,2R,VRR,VIA Rail Canada,true
+CWU,CWU,Wuhan Air Lines,false
+2S,2S,Satgur Air Transport,false
+YC*,CJR,Caverton Helicopters Ltd.,true
+2T,2T,ANH,Alajnihah Air Transport,false
+2U,2U,Sun d'Or,true
+2V,2V,Amtrak,true
+TYJ,TJS,Tyrolean Jet Service,true
+2W,2W,WLC,Welcome Air,true
+2Y,2Y,Air Andaman,false
+2Z,2Z,Voronezh Aircraft,false
+HAD,H9,HAD,Air d'Ayiti,false
+3A,3A,Alliance Airlines,true
+3B,3B,JBR,Central Connect Airlines,true
+3C,3C,CEA,RegionsAir,false
+3D,J7,DNM,Denim Air,true
+HB*,HB,AAQ,Asia Atlantic Airlines,true
+LIM,LIM,Limitless Airways,true
+3E,3E,WBR,Air Choice One,true
+3F,3F,Pacific Airways,true
+TYW,TYW,Tyrol Air Ambulance,true
+3G,Atlant-Soyuz Airlines,false
+3H,3H,AIE,Air Inuit,1-800-361-5933,true
+3I,3I,DLU,Aerolneas Del Sur,false
+3J,Zip Air,false
+LIS,LIS,Luk Aero,true
+3K,3K,JSA,Jetstar Asia,true
+3L,3L,ISK,InterSky,true
+3M,3M,SIL,Silver Airways,true
+HAT,HAT,Air Taxi,false
+3N,3N,URG,Air Urga,true
+3O,3O,MAC,Air Arabia Maroc,true
+LIZ,Q9,LIZ,Air Liaison,true
+3P,3P,TNM,Tiara Air Aruba,true
+3Q,3Q,CYH,China Yunnan Airlines,false
+YD*,YD,SYG,Synergy Aviation,true
+3R,3R,GAI,Moskovia Airlines,true
+3S,3S,GUY,Air Antilles Express,true
+7A*,7A,FFB,Afric'Air,false
+3T,3T,URN,Turan Air,false
+HAY,HK,HAY,Hamburg Airways,true
+3U,3U,CSC,Sichuan Airlines,true
+3V,3V,TAY,TNT Airways,true
+3W,3W,EMX,Euromanx,false
+3X,JC,JAC,Japan Air Commuter,true
+3Y,3Y,KAE,Kartika Airlines,false
+3Z,5V,VTS,Everts Air Cargo,true
+LK*,LK,LLL,Lao Skyway,true
+4A,4A,AMP,ATSA,true
+4B,4B,TUP,Aviastar-TU,true
+4C,4C,ARE,LATAM Airlines Colombia,true
+4D,4D,ASD,Air Sinai,true
+4E,4E,TNR,Tanana Air Service,true
+CYF,U8,CYF,Tus Airways,true
+4G,4G,GZP,Gazpromavia,true
+4H,4H,UBD,United Airways (BD),true
+PRW,6F,PRW,Primera Air Nordic,true
+4I,4I,IZM,IZAir,true
+4J,4J,NTW,Nationwide Airlines (Zambia),false
+4K,4K,KBA,Kenn Borek Air,true
+4L,4L,GIL,Georgian International Airlines,true
+4M,4M,DSM,LATAM Airlines Argentina,true
+4N,4N,ANT,Air North,true
+4O,4O,AIJ,Interjet,true
+4P,4P,VIK,Viking Airlines,false
+4Q,4Q,SFW,Safi Airways,true
+4R,4R,HHI,HI Hamburg International,false
+4S,4S,Star Airways,false
+7B*,7B,MWG,MASwings,true
+4T,4T,BHP,Belair Airlines,true
+4U,4U,GWI,Germanwings,+44 (0) 870 252 12 50,true
+4V,4V,LCG,Lignes Aeriennes Congolaises,true
+2Y*,2Y,My Indo Airlines,true
+4W,4W,WAV,Warbelow's Air Ventures,true
+4X,4X,Atlantic Express,false
+4Y,4Y,TUD,Yute Air Alaska,true
+CYZ,China Postal Airlines,false
+4Z,4Z,LNK,Airlink (South Africa),true
+HCC,HC,HCC,Holidays Czech Airlines,true
+5A,5A,AIP,Alpine Air Express,true
+5B,5B,NCH,Chanchangi Airlines,true
+5C,5C,ICL,C.A.L. Cargo Airlines,true
+5D,5D,SLI,AeroMexico Connect,true
+5E,5E,SGA,false
+PST,7P,PST,Air Panama,true
+5F,5F,CIR,Arctic Circle Air,true
+5G,5G,SSV,Skyservice Airlines,false
+5H,5H,FFV,Fly540,true
+5I,4H,GRG,Air G,false
+5J,5J,CEB,Cebu Pacific Air,true
+PSW,PSW,Pskovavia,true
+5K,5K,ODS,Odessa Airlines,false
+5L,5L,RSU,AeroSur,false
+5M,5M,MNT,FlyMontserrat,true
+5N,5N,AUL,Nordavia Regional Airlines,true
+5O,5O,FPO,ASL Airlines France,true
+5P,5P,PCP,PAL Airlines,true
+5Q,5Q,Keenair Charter,false
+5R,5R,CTT,Custom Air Transport,false
+5S,5S,GAK,Global Aviation Services,true
+7C*,7C,JJA,Jeju Air,true
+5T,5T,MPE,Canadian North,true
+5U,5U,LDE,LADE,true
+5V,5V,UKW,Lviv Airlines,false
+5W,Iceland Express,false
+LLC,S5,LLC,Small Planet Airlines,true
+PTG,PTG,PrivatAir Germany,true
+5X,5X,UPS,UPS,true
+5Y,5Y,GTI,Atlas Air,true
+PTI,PV,PTI,PrivatAir Switzerland,true
+PU*,PU,PUE,Plus Ultra,true
+5Z,5Z,BML,Bismillah Airlines,true
+6A,6A,CHP,AVIACSA,false
+PTN,GP,PTN,Pantanal (dup),false
+6B,6B,BLX,TUIfly Nordic,1-800-538-2583,true
+LLM,Yamal Airlines,false
+6C,6C,CMY,Cape Smythe Air,false
+6D,6D,PAS,PT. Pelita Air,true
+6E,6E,IGO,IndiGo,true
+PTR,9P,PTR,Air Arabia Jordan,true
+6F,6F,PFO,Aerotrans Airlines,false
+6G,9X,FDY,Southern Airways Express,true
+LLP,P7,LLP,Small Planet Airlines Polska,true
+6H,6H,ISR,Israir Airlines,true
+6I,6I,VVA,Aviast Air,true
+6J,6J,JUB,Jubba Airways,true
+6K,6K,Asian Spirit,false
+6L,6L,AKK,Aklak Air,true
+6M,6M,AMG,Air Minas,false
+6N,NR,MHK,Al-Naser Airlines,true
+LLY,LLY,Let's Fly,true
+6O,6O,ASJ,Exact Air,true
+LLX,LLX,Small Planet Airlines Germany,true
+6P,6P,GRF,Gryphon Airlines,true
+6Q,6Q,SAW,Cham Wings Airlines,true
+6R,6R,TNO,AeroUnion,true
+6S,6S,KAT,Kato Airline,false
+7D*,7D,MSU,Maluti Sky,true
+YG*,YG,YTO Cargo,true
+6T,6T,Air Mandalay,true
+6U,6U,ACX,ACG,true
+6V,6V,MRW,Mars RK,true
+6W,6W,SOV,Saravia,true
+6Y,6Y,ART,SmartLynx Airlines,true
+6Z,6Z,Panavia,false
+7A,7A,NXA,Air Next,false
+7B,7B,AYZ,Atlant-Soyuz,false
+7C,7C,COY,Coyne Airways,true
+7D,7D,UDC,Donbassaero,false
+7E,7E,AWU,Sylt Air,true
+7F,7F,FAB,First Air,true
+7G,MK Air Cargo,false
+7H,7H,RVF,Ravn Alaska,true
+7I,7I,INC,InselAir,1 800 386 4800,true
+7J,7J,TJK,Tajik Air,true
+7K,7K,KGL,Kolavia,true
+7L,7L,CRN,Aerocaribbean,true
+7M,7M,MYI,MAYAir,true
+7N,7N,Inland Aviation,true
+7O,7O,TVL,Travel Service Hungary,true
+7P,Batavia Air,false
+7Q,7N,PWD,Pan American Dominicana,true
+YH*,YH,Sunsplash Aviation,true
+7R,7R,RLU,RusLine,true
+7S,7S,RYA,Ryan Air,true
+7T,7T,TNT,Trans North Aviation,true
+7U,7U,ERG,Aviaenergo,false
+7V,7V,FDR,Federal Air,true
+7W,7W,WRC,Wind Rose Aviation Company,true
+7Y,7Y,NYL,Mid Airlines,true
+Q8*,Q8,TSG,Trans Air Congo,true
+7Z,7Z,HCV,Halcyonair,true
+PVO,PVO,Privaira,true
+8A,8A,BMM,Atlas Blue,false
+8B,8B,BFY,Bremenfly,false
+8C,Air Horizon,false
+8D,8D,EXV,FitsAir,true
+8E,8E,BRG,Bering Air,true
+8F,8F,STP,STP Airways,true
+LNQ,LNQ,Links Air,true
+8G,8G,NGE,Angel Airlines,false
+8H,8H,HWY,Highland Airways,false
+8I,8I,MYW,MyAir.com,false
+8J,8J,KMV,Komiinteravia,false
+8K,8K,EVS,EVAS Air Charters,true
+8L,8L,LKE,Lucky Air,true
+8M,8M,MMA,Myanmar Airways International,true
+8N,NEF,Barents AirLink,true
+8O,8O,West Coast Air,true
+LNX,LNX,London Executive Aviation,true
+8P,8P,PCO,Pacific Coastal Airlines,true
+8Q,8Q,BAJ,Baker Aviation,true
+8R,8R,TRIP Regional,false
+HFY,5K,HFY,Hi Fly,true
+8S,8S,Turbojet,true
+PWA,PWA,Priester Aviation,true
+YI*,YI,AYE,Yunnan Ying'An Airlines,true
+8T,8T,Air Tindi,true
+8U,8U,AAW,Afriqiyah Airways,true
+8V,8V,WRT,Wright Air,true
+8W,8W,PWF,Private Wings,true
+8Y,8Y,PBU,Air Burundi,true
+8Z,8Z,Wizz Air Bulgaria,false
+LOG,LM,LOG,Loganair,true
+9A,9A,Visa Airways,false
+HGH,HGH,Atlantic Air Lift,false
+9B,9B,AccesRail,true
+9C,9C,CQH,Spring Airlines,true
+9D,9D,THE,Toumai Air,true
+9E,9E,FLG,Endeavor Air,true
+9F,9F,Eurostar,true
+9H,9H,DNL,Dutch Antilles Express,false
+9I,9I,HTA,Helitrans AS,true
+9J,9J,DAN,Dana Airlines,true
+9K,9K,KAP,Cape Air,true
+9L,9L,CJC,Colgan Air,false
+9M,9M,GLR,Central Mountain Air,true
+9N,9N,AJV,ANA and JP Express,false
+9O,9O,Transportes Aereos Inter,false
+9P,9P,Palau National Airlines,false
+9Q,9Q,PBA,PB Air,false
+YJ*,YJ,AWM,Asian Wings Airways,true
+9R,9R,NSE,SATENA,true
+7G*,7G,SFJ,StarFlyer,true
+9T,9T,ABS,Transwest Air,true
+9U,9U,MLD,Air Moldova,true
+9V,9V,ROI,Avior,true
+9W,9W,JAI,Jet Airways (India),0808 101 1199 (UK toll free reservations),true
+9X,9X,AXY,New Axis Airways,false
+9Y,9Y,KZK,Air Kazakstan,false
+LQ*,Air Guinea Cargo,false
+M2*,M2,Millon Express,true
+M3*,M3,NFA,Air Norway,true
+DAG,N2,DAG,Daghestan Airlines,false
+DAP,V5,DAP,Aerovias DAP,true
+DAT,D4,DAT,Dart Airlines,true
+YL*,YL,LWA,Libyan Wings,true
+DAV,DAV,Dornier Aviation Nigeria,true
+M4*,M4,SME,Smart Aviation,true
+HK*,HK,Yangon Airways,false
+3AC,3A,Chu Kong Passenger Transport,true
+3B*,3B,BFR,Burkina Airlines,false
+LT*,LT,LTU,Air Lituanica,false
+M5*,M5,MGC,Air Cargo Mongolia,true
+HKI,HKI,Hawkaire,true
+HKS,HKS,CHC Helikopter Service,true
+DCS,DCS,DC Aviation,true
+DCX,DCX,Pentastar Aviation,true
+LTE,XO,LTE,LTE International Airways,false
+LTD,6G,LTD,Executive Express Aviation,true
+HLQ,JH,HLQ,Harlequin Air,false
+7L*,7L,AZG,Silk Way West,true
+HN*,HN,HVY,Heavylift Cargo,true
+HMR,HMR,North American Charters,false
+UH*,UH,US Helicopter,false
+M8*,M8,Skyjet,true
+DFL,DCT,Directflight Limited,true
+A0,A0,AVI,L'Avion,false
+A2,A2,CIU,Cielos Del Peru,true
+A3,A3,AEE,Aegean Airlines,+30 210 6261000,true
+A4,A4,AEK,Aerocon,true
+A5,AN,RLA,HOP!-AIRLINAIR,true
+A6,A6,LPV,Air Alps Aviation,true
+A7,A7,MPD,Air Comet,false
+A8,A8,PAY,Benin Golf Air,false
+UI*,UI,AUK,Auric Air,true
+A9,A9,TGZ,Georgian Airways,true
+HOA,HOA,Hola Airlines,false
+AA,AA,AAL,American Airlines,08457-567-567,true
+AB,AB,BER,Air Berlin,+49 030 3434 3434,true
+AC,AC,ACA,Air Canada,1-888-422-7533,true
+AD,AD,AZU,Azul,true
+AE,AE,MDA,Mandarin Airlines,true
+AF,AF,AFR,Air France,1-800-237-2747,true
+AG,AG,ABR,ASL Airlines Ireland,true
+AH,AH,DAH,Air Algerie,+33 (0) 1 47 03 74 10,true
+DH*,DH,Norwegian Air Norway,true
+AI,AI,AIC,Air India,1-800-223-7776,true
+HOP,A5,HOP,HOP!,true
+AJ,NG,NIG,Aero,true
+AK,AK,AXM,AirAsia,true
+AL,AL,SYX,Midwest Connect,false
+AM,AM,AMX,Aeromexico,1-800-237-6639,true
+AO,AO,NET,Avianova,false
+AP,AP,ADH,Air One,false
+AQ,Aloha Airlines,1-800-367-5250,false
+B2,B2,BRU,Belavia,true
+AR,AR,ARG,Aerolineas Argentinas,1-800-333-0276,true
+B3,B3,BLV,Bellview Airlines,false
+AS,AS,ASA,Alaska Airlines,1-800-252-7522,true
+B4,B4,FlyGlobespan,false
+AT,AT,RAM,Royal Air Maroc,true
+B5,B5,EXZ,Fly SAX,true
+AU,AU,AUT,Austral,true
+B6,B6,JBU,JetBlue Airways,1-800-538-2583,true
+DGX,DGX,Dasnair,true
+LXA,LXA,Luxaviation,true
+AV,AV,AVA,AVIANCA,01-8000-1234 34,true
+B7,B7,UIA,UNI Air,true
+AW,AW,DIR,Dirgantara Air,false
+B8,B8,ERT,Eritrean Airlines,true
+AX,AX,LOF,Trans States Airlines,true
+B9,B9,IRB,Iran Airtour Airline,true
+QAF,QAF,Qatar Amiri Flight,true
+AY,AY,FIN,Finnair,+ 358 600 140 140,true
+AZ,AZ,AZA,Alitalia,1-800-223-5730,true
+DHC,DHC,De Havilland,false
+BA,BA,BAW,British Airways,1-800-AIRWAYS,true
+LXJ,LXJ,Flexjet,true
+BB,BB,SBS,Seaborne Airlines,true
+BC,BC,SKY,Skymark Airlines,true
+BD,BD,BMA,bmi,+44 (0)1332 64 8181,false
+BE,BE,BEE,Flybe,00 44 1392 268529,true
+BF,BF,BBD,Bluebird Cargo,true
+DI*,DI,NRS,Norwegian Air UK,true
+BG,BG,BBC,Biman Bangladesh Airlines,+880 2911 9995,true
+BH,BH,Hawkair Aviation,true
+BI,BI,RBA,Royal Brunei Airlines,true
+BJ,BJ,LBT,Nouvelair Tunisie,true
+BK,BK,OKA,Okay Airways,true
+BL,BL,PIC,Jetstar Pacific,true
+BM,BM,BMR,bmi Regional,true
+BN,BN,BAB,Bahrain Air,false
+BO,BO,BOU,Bouraq Indonesia Airlines,false
+C0,C0,CLW,Centralwings,false
+BP,BP,BOT,Air Botswana,true
+BQ,BQ,ROM,Aeromar Airlines,false
+C2,C2,ALU,Air Luxor,false
+UJC,UE,UJC,Ultimate Jetcharters,true
+BR,BR,EVA,EVA Air,+1-800-695-1188,true
+C3,C3,KIS,Contact Air,false
+BS,BS,BIH,British International,true
+C4,C4,MSO,ALMA de Mexico,false
+BT,BT,BTI,Air Baltic,true
+C5,C5,UCA,CommutAir,true
+BU,BU,CNO,SAS Norway,false
+C6,C6,CJA,CanJet Airlines,true
+BV,BV,BPA,Blue Panorama Airlines,true
+C7,C7,RLE,Rico Linhas Aereas,false
+BW,BW,BWA,Caribbean Airlines,true
+C8,C8,ICV,Cargolux Italia,true
+UK*,UK,VTI,Vistara,true
+BX,BX,ABL,Air Busan,true
+C9,C9,RUS,Cirrus Airlines,false
+LYD,LYD,LyddAir,true
+BY,Britannia Airways,false
+BZ,BZ,KEE,Keystone Air,true
+CA,CA,CCA,Air China,1-800-986-1985,true
+UJT,JNY,Journey Aviation,true
+CB,CB,SAY,Suckling Airways,false
+CC,CC,ABD,Air Atlanta Icelandic,true
+CD,9I,LLR,Alliance Air,true
+LYM,KG,LYM,Key Lime Air,true
+CE,CE,CLG,Chalair,true
+UJX,UH,UJX,Atlasjet Ukraine,true
+CF,CF,SDR,City Airline,false
+CG,CG,TOK,Airlines PNG,+675 325 2011,true
+CH,CH,BMJ,Bemidji Aviation,true
+DJ*,DJ,AirAsia Japan,true
+CI,CI,CAL,China Airlines,1-800-2275-118,true
+CJ,CJ,CFE,BA CityFlyer,true
+CK,CK,CKK,China Cargo,true
+CL,CL,CLH,Lufthansa CityLine,true
+CM,CM,CMP,Copa Airlines,true
+CN,CN,GDC,Grand China Air,true
+CO,CO,COA,Continental Airlines,1-800-523-3273,true
+D0,D0,DHK,DHL Air,true
+CP,CP,CPZ,Compass Airlines,true
+D1,D1,Direct Air,false
+CQ,CQ,Sunshine Express Airlines,false
+D2,D2,SSF,Severstal Aircompany,true
+Z5*,Z5,Global Africa Aviation,true
+D3,D3,DAO,Daallo Airlines,true
+7Q*,7Q,MNU,Elite Airways,true
+CS,CS,CMI,Continental Micronesia,false
+D4,D4,LID,Alidaunia,true
+CT,CT,CYL,Alitalia CityLiner,true
+D5,D5,DAE,DHL Aero Expreso,true
+CU,CU,CUB,Cubana de Aviacion,true
+D6,D6,ILN,Interair South Africa,true
+CV,CV,CLX,Cargolux,1-800-866-2885,true
+D7,D7,XAX,AirAsia X,true
+CW,CW,CWM,Air Marshall Islands,1-692-625-3733,true
+D8,D8,DJB,Djibouti Airlines,false
+CX,CX,CPA,Cathay Pacific,1-800-233-2742,true
+D9,D9,DNV,Donavia,true
+CY,CY,CYP,Cyprus Airways,+357 22 365700,false
+QD*,QD,Dobrolet,true
+CZ,CZ,CSN,China Southern Airlines,+86 20 95539,true
+UKL,UKL,Ukraine Air Alliance,true
+DA,DA,DAC,Daily Air,true
+DB,DB,BZH,HOP!-BRIT AIR,true
+I4*,I4,Island Air Express,true
+DC,DC,BRX,Braathens Regional,true
+DD,DD,NOK,Nok Air,true
+DE,DE,CFG,Condor,+49 (0) 6171 65-3604,true
+DF,DF,ABH,AeBal,false
+DG,DG,SRQ,Cebgo,true
+DH,DH,IDE,Independence Air,false
+DI,DI,BAG,dba,+49 1805 227837,false
+UKZ,ZX,UKZ,Zoom Airlines Limited,false
+DJ,DJ,VOZ,Virgin Australia,+61 7 3295 2296,false
+DK,DK,VKG,Thomas Cook Airlines Scandinavia,true
+DL,DL,DAL,Delta Air Lines,1-800-221-1212,true
+DM,DAN,Maersk Air,false
+DN,DN,DKN,Deccan,false
+DO,VK,RVL,Air Vallee,true
+E0,E0,ESS,Eos,false
+DP,DP,FCA,First Choice Airways,false
+DQ,DQ,CXT,Coastal Air,true
+E2,E2,Kampuchea Airlines,false
+DR,DR,Air Link,true
+E3,E3,DMO,Domodedovo Airlines,false
+DJT,B0,DJT,La Compagnie,true
+DS,DS,EZS,Easyjet Switzerland,true
+E4,E4,GIE,Elysian Airlines,false
+DT,DT,DTA,TAAG,true
+E5,E5,BRZ,Samara Airlines,false
+DU,DU,HMS,Hemus Air,false
+E6,E6,AEQ,AviaExpressCruise Airlines,false
+DV,DV,VSV,SCAT Airlines,true
+E7,E7,Fly European,false
+DW,DW,UCR,Aero-Charter,true
+E8,E8,SMK,JSC Semeyavia,false
+DX,DX,DTR,Danish Air,true
+E9,E9,Pan Am Clipper Connection,false
+DY,DY,NAX,Norwegian Air Shuttle,+ 47 21 49 00 15,true
+DZ,DZ,NOE,Transcaraibes Air International,false
+I4A,I4,Airlink,true
+EA,EA,ANU,Andalus,false
+EB,EB,PLM,Wamos Air,true
+EC,EC,BOS,OpenSkies,true
+ED,ED,Air Dominicana,false
+HT*,HT,HTK,Ningxia Cargo Airlines,true
+I5*,I5,IAD,AirAsia India,true
+EE,EE,Aero Airlines,false
+EF,FE,FEA,Far Eastern Air Transport,true
+EG,EG,JAA,Japan Asia Airways,false
+EH,EH,AKX,ANA Wings,true
+EI,EI,EIN,Aer Lingus,1-800-IRISHAIR,true
+EJ,EJ,NEA,New England Airlines,true
+EK,EK,UAE,Emirates,800 777 3999,true
+EL,EL,ANK,Air Nippon,false
+EM,EM,CFS,Empire Airlines,true
+EN,EN,DLA,Air Dolomiti,true
+EO,EO,ALX,flyCongo,false
+EP,EP,IRC,Iran Aseman Airlines,true
+DKT,DKT,Encore Air Cargo,true
+EQ,EQ,TAE,TAME,true
+F2,F2,Aerolineas Regionales,false
+Z7*,Z7,FZW,Fly Africa Zimbabwe,true
+ER,ER,DHL,Astar Air Cargo,true
+F4,F4,NBK,Albarka Air Services,false
+ET,ET,ETH,Ethiopian Airlines,+251-11-665 6666,true
+F5,F5,Cosmic Air,false
+EU,EU,UEA,Chengdu Airlines,true
+F6,F6,FCC,First Cambodia Airlines,false
+EV,EV,ASQ,ExpressJet,true
+F7,flybaboo,false
+EW,EW,EWG,Eurowings,true
+F8,F8,FRL,Freedom Airlines,false
+UMK,2N,UMK,Yuzmashavia,true
+EX,EX,SDO,Air Santo Domingo,false
+F9,F9,FFT,Frontier Airlines,1-800-432-1359,true
+EY,EY,ETD,Etihad Airways,true
+EZ,EZ,EIA,Evergreen International,true
+HTG,HTG,Grossman Air Service,true
+FA,FA,HYR,Private Sky,true
+FB,FB,LZB,Bulgaria Air,true
+FC,N7,FCM,Nordic Regional Airlines,true
+FD,FD,AIQ,Thai AirAsia,true
+FE,FE,Primaris Airlines,false
+DM*,DM,DEX,Asian Air,true
+FG,FG,AFG,Ariana Afghan Airlines,true
+FH,FH,FUA,Futura International,false
+FI,FI,ICE,Icelandair,true
+FJ,FJ,FJI,Fiji Airways,1-800-227-4446,true
+FK,FK,WTA,Africa West,true
+FL,FL,TRS,AirTran,1-800-247-8726,true
+FM,FM,CSH,Shanghai Airlines,true
+FN,FN,RGL,Regional Air Lines,false
+FO,FO,FXX,Felix Airways,true
+G0,G0,GHB,Ghana International Airlines,false
+FP,FP,FRE,Freedom Air,true
+FQ,FQ,Brindabella Airlines,true
+G2,G2,VXG,Avirex Gabon,false
+FR,FR,RYR,Ryanair,+353 1 249 7791,true
+G3,G3,GLO,Gol,+55 11 2125 3200,true
+UNF,UNF,Union Flights,true
+7T*,7T,AGV,Air Glaciers,true
+FS,FS,ACL,ItAli Airlines,false
+G4,G4,AAY,Allegiant Air,1 702 505 8888,true
+QFA,EAQ,Eastern Australia,true
+Z8*,Z8,AZN,Amaszonas,true
+FT,FT,SRH,Siem Reap Airways International,false
+G5,G5,HXA,China Express Air,true
+FU,FU,LIT,Air Littoral,false
+G6,G6,Guine Bissau Airlines,false
+FV,FV,SDM,Rossiya Airlines,+812 333-22-22,true
+G7,G7,GJS,GoJet Airlines,true
+FW,FW,IBX,IBEX Airlines,true
+G8,G8,GOW,GoAir,true
+FX,FX,FDX,FedEx,true
+G9,G9,ABY,Air Arabia,true
+FY,FY,FFM,Firefly,true
+FZ,FZ,FDB,flydubai,true
+GA,GA,GIA,Garuda Indonesia,0807-1-807807,true
+GB,GB,ABX,ABX Air,true
+GC,GC,GNR,Gambia International Airlines,false
+GD,GD,GSC,Grandstar Cargo,false
+GE,GE,TNA,TransAsia Airways,true
+GF,GF,GFA,Gulf Air,973 17 335 777,true
+GG,GG,Air Comores,false
+GH,GH,GLP,Globus,true
+GI,GI,IKA,ITEK-AIR,false
+GJ,GJ,EEZ,Eurofly,false
+GK,GK,JJP,Jetstar Japan,true
+GL,GL,GRL,Air Greenland,+299 34 34 34,true
+GM,GM,SVK,Air Slovakia,false
+GN,GN,AGN,Air Gabon,false
+GO,GO,GOE,Go,false
+GP,GP,PTN,Pantanal Linhas Aereas,true
+H1,H1,Hooters Air,false
+GQ,GQ,SEH,Sky Express,true
+H2,H2,SKU,Sky Airline,true
+QGA,QGA,Windrose Air,true
+GR,GR,AUR,Aurigny Air Services,true
+H3,H3,Harbour Air,true
+7U*,7U,Commercial Aviation Services,true
+GS,GS,GCR,Tianjin Airlines,true
+H4,HS,HLI,Heli Securite,true
+GT,GT,GBL,GB Airways,false
+H5,H5,MVL,Magadan Airlines,false
+GU,GU,GUG,Aviateca Guatemala,true
+H6,H6,HAG,Ravn Connect,1-866-239-0119,true
+GV,GV,GUN,Grant Aviation,true
+H7,H7,EGU,Eagle Air,true
+GW,GW,KIL,Kuban Airlines,false
+H8,H8,KHB,Delavia - Far East Airways,false
+GX,GX,JXX,JetX,false
+H9,H9,HTH,Helitt,false
+GY,GY,GBK,Gabon Airlines,false
+GZ,GZ,Air Rarotonga,true
+HA,HA,HAL,Hawaiian Airlines,1-800-367-5320,true
+HB,HB,Homer Air,true
+HW*,HW,TransAustralian Air Express,false
+HC,Aero-Tropics,false
+HD,HD,ADO,Air Do,true
+HE,HE,LGW,LGW,true
+DO*,DO,DCV,Discovery Airways,true
+HF,Hapagfly,+49 0900 1099595,false
+HG,HG,NLY,NIKI,true
+HH,HH,TBN,Taban Airlines,true
+HI,HI,Papillon Airways,true
+HJ,HJ,TMN,Tasman Cargo Airlines,true
+HK,HK,FSC,Four Star Aviation,false
+HM,HM,SEY,Air Seychelles,true
+HN,HN,AJA,Afghan Jet International,true
+HO,HO,DKH,Juneyao Airlines,true
+HP,HP,America West,1-800-2FLY-AWA,false
+HQ,HQ,HMY,Harmony Airways,false
+I2,I2,IBS,Iberia Express,true
+HR,HR,HHN,Hahn Air,true
+I3,I3,IVN,Ivoirienne de Transport Aerien,true
+HS,HS,HSV,Direktflyg,true
+I4,I4,Interstate Airlines,false
+HT,HT,Aeromist,false
+I5,I5,CMM,Societe Nouvelle Air Mali,true
+HU,HU,CHH,Hainan Airlines,03-10-2007,true
+I6,MexicanaLink,false
+HV,HV,TRA,Transavia,+31 20 4060406,true
+I7,I7,Paramount Airways,false
+HW,HW,NWL,North-Wright Airways,true
+I8,I8,IZA,Izhavia,true
+UQ*,UQ,CUH,Urumqi Airlines,true
+HX,HX,CRK,Hong Kong Airlines,true
+I9,I9,Indigo,false
+HY,HY,UZB,Uzbekistan Airways,998 (71) 140 02 00,true
+HZ,HZ,SHU,Aurora,true
+IA,IA,IAW,Iraqi Airways,true
+IB,IB,IBE,Iberia,1800 772 4642,true
+IC,IC,IAC,Indian Airlines,1-866 435 9422,false
+ID,ID,Interlink Aviation,false
+IE,IE,SOL,Solomon Airlines,true
+IF,IF,ISW,Islas Airways,false
+IG,IG,ISS,Meridiana,true
+DP*,DP,PBD,Pobeda,true
+IH,IH,FCN,Falcon Air,false
+II,II,CSQ,IBC Airways,true
+IJ,IJ,GWL,Great Wall Airlines,false
+IK,2G,AGU,Angara Airlines,true
+IL,IL,LankAir,true
+IM,IM,Menajet,false
+IN,IN,MAK,Macedonian Airlines,false
+IO,Indochina Airlines,false
+J0,J0,JLX,Jet Link Express,true
+IP,IP,Atyrau Aue Joly,false
+J1,J1,One Jet,true
+IQ,IQ,AUB,Augsburg Airways,true
+J2,J2,AHY,AZAL Azerbaijan Airlines,true
+YZ*,YZ,ALY,Alas Uruguay,true
+IR,IR,IRA,Iran Air,true
+J3,J3,PLR,Northwestern  Air,true
+IS,IS,ISA,Island Airlines,true
+J4,J4,BFL,Buffalo Airways,true
+HWY,Highland Airways,false
+IT,IT,KFR,Kingfisher Airlines,false
+J5,J5,Alaska Seaplanes,true
+IU,IU,Hevi Lift (PNG),true
+J6,J6,Larry's Flying Service,true
+IV,IV,JET,Wind Jet,false
+J7,J7,CVC,Centre Avia Airlines,false
+IW,IW,WON,Wings Air (Indonesia),true
+J8,J8,BVT,Berjaya Air,true
+IX,IX,AXB,Air India Express,true
+J9,J9,JZR,Jazeera Airways,true
+IY,IY,IYE,Yemenia,true
+QJ*,QJ,Jet Airways Inc.,false
+7W1,7W,Aviation Assistance,false
+IZ,IZ,AIZ,Arkia Israeli Airlines,true
+MAI,MAX,Max Aviation,true
+JA,JA,BON,B and H Airlines,true
+JB,JB,JBA,Helijet International,true
+JC,JEX,JAL Express,true
+MAL,MAL,Morningstar Air Express,true
+JD,JD,CBJ,Beijing Capital Airlines,true
+JE,JE,MNO,Mango,true
+E2*,E2,GRN,Rio Grande Air,false
+JF,JF,LAB,L. A. B. Flying Service,false
+JG,JO,JTG,Jet Time,true
+JH,JH,NES,Nordeste,false
+JI,JI,Eastern Caribbean Airlines,false
+JJ,JJ,TAM,LATAM Airlines Brasil,1-888-2FLY TAM,true
+MAU,L6,MAI,Mauritania Airlines International,true
+JK,Spanair,+34 971 91 60 47,false
+JL,JL,JAL,JAL,0120-25-5931,true
+JM,JM,AJM,Air Jamaica,true
+MAV,MAV,Minoan Air,true
+JN,XL Airways,+08 70-320-7777,false
+JO,JO,JAZ,JALways,false
+JP,JP,ADR,Adria Airways,true
+JQ,JQ,JST,Jetstar,true
+K2,K2,ELO,EuroLot,false
+JR,JR,JOY,Joy Air,1-800-AERO CAL,true
+K3,K3,TQN,Taquan Air,true
+JS,JS,KOR,Air Koryo,true
+K4,K4,CKS,Kalitta Air,true
+JT,JT,Transair,false
+K5,K5,SQH,SeaPort Airlines,true
+JU,JU,ASL,Air Serbia,true
+K6,K6,KHV,Cambodia Angkor Air,true
+JV,JV,BLS,Bearskin Airlines,true
+K7,K7,KBR,KoralBlue,false
+MBB,ZM,MBB,Air Manas,true
+JW,JW,VNL,Vanilla Air,true
+K8,K8,Dutch Caribbean Airline,false
+V4*,V4,Valair,false
+JX,JX,JEC,Jett8,false
+K9,K9,SGK,Skyward Aviation,false
+JY,JY,IWY,interCaribbean Airways,true
+JZ,JZ,SKX,Skyways,0771-95 95 00,false
+KA,KA,HDA,Dragonair,(852) 3193-3888,true
+KB,KB,DRK,Drukair,true
+KC,KC,KZR,Air Astana,true
+KD,KD,KNI,KD Avia,false
+KE,KE,KAL,Korean Air,1-800-438-5000,true
+KF,KF,BLF,Blue1,+358 (0)20 585 6000,true
+KG,KG,GTV,Aerogaviota,true
+DR*,DR,Ruili Airlines,true
+KH,KH,AAH,Aloha Air Cargo,true
+KI,KI,Adam Skyconnection,false
+KJ,KJ,Asian Air,false
+KK,KK,KKK,Atlasjet,true
+KL,KL,KLM,KLM,1-800-447-4747,true
+KM,KM,AMC,Air Malta,+356 2166 2211,true
+KN,KN,CUA,China United Airlines,true
+KO,KO,AER,ACE Air Cargo,true
+USC,USC,AirNet,true
+KP,KP,SKK,ASKY,true
+L1,L1,Unknown,false
+KQ,KQ,KQA,Kenya Airways,866-536-9224,true
+L2,L2,LYC,Lynden Air Cargo,true
+KR,KR,KHA,Kitty Hawk,false
+L3,L3,Lynx Aviation,false
+7Y*,7Y,MYP,Mann Yadanarpon Airlines,true
+KS,KS,PEN,PenAir,true
+L4,L4,LDI,Lauda Air,false
+KT,KT,Katami Air,true
+L5,L5,Helikopter Service,false
+KU,KU,KAC,Kuwait Airways,true
+L6,L6,Tbilaviamsheni,false
+MCA,MCA,MCA Airlines,false
+KV,KV,MVD,Kavminvodyavia,false
+L7,LAOAG International Airlines,false
+KW,KW,WAN,Wataniya Airways,false
+L8,L8,Air Luxor,false
+KX,KX,CAY,Cayman Airways,true
+L9,L9,BAL,Belle Air Europe,true
+KY,KY,KNA,Kunming Airlines,true
+KZ,KZ,NCA,NCA - Nippon Cargo Airlines,true
+LA,LA,LAN,LATAM Airlines,1 (305) 670 9999,true
+LB,LB,LLB,LAB,false
+LC,LC,Varig Logistica,false
+LD,LD,AHK,AHK,true
+LE,LE,Laparkan Airways,true
+LF,flynordic,false
+LG,LG,LGL,Luxair,+352 2456 4242,true
+LH,LH,DLH,Lufthansa,800 645-3880,true
+MCS,T8,MCS,MCS Aerocarga de Mexico,true
+LI,LI,LIA,LIAT,true
+LJ,LJ,JNA,Jin Air,true
+LK,LK,LXR,Air Luxor,false
+LL,LL,GRO,Lineas Aereas Allegro,false
+LM,LM,LVG,Livingston Energy Flight,false
+LN,LN,LAA,Libyan Airlines,true
+LO,LO,LOT,LOT - Polish Airlines,1 212 789 0970,true
+LP,LP,LPE,LATAM Airlines Peru,true
+M2,MZS,Mahfooz Aviation,true
+LR,LR,LRC,LACSA,true
+M3,M3,LTG,LATAM Cargo Brasil,true
+LS,LS,EXS,Jet2,+44 203 031 8103,true
+M4,M4,AXX,Avioimpex,false
+LT,LT,LTU,LTU International Airways,+49 211 9418888,false
+M5,M5,KEN,Kenmore Air,true
+LU,LU,LXP,LanExpress,true
+M6,M6,AJT,Amerijet International,true
+LV,LV,LBC,Albanian Airlines,false
+M7,M7,MSL,Marsland Aviation,true
+3R*,3R,ARB,Avia Air,false
+LW,LW,NMI,Pacific Wings,true
+M8,Mekong Airlines,false
+LX,LX,SWR,SWISS,1-877-359-7947,true
+M9,M9,MSI,Motor Sich Airlines,true
+LY,LY,ELY,El Al,+ 972-3-9771111,true
+LZ,LZ,LBY,Belle Air,true
+QM*,QM,Monacair,true
+MDH,3Y,MDH,Madina Air,true
+MA,MA,MAH,Malev,(+36 1) 235-3888,false
+MB,MB,MNB,MNG Airlines,true
+MC,MC,RCH,Air Mobility Command,true
+MD,MD,MDG,Air Madagascar,+261 20 22 510 00,true
+MDM,N5,MDM,Medavia,true
+ME,ME,MEA,Middle East Airlines,true
+MF,MF,CXA,Xiamen Airlines,+86-592-5739888,true
+MG,MG,MIX,Midex Airlines,true
+MH,MH,MAS,Malaysia Airlines,+603 7843 3000,true
+MI,MI,SLK,SilkAir,true
+MJ,MJ,MLR,Mihin Lanka,true
+MK,MK,MAU,Air Mauritius,+230 207 7575,true
+ML,ML,ATTICO,false
+MM,SAM,false
+MN,MN,CAW,Comair,true
+MO,MO,CAV,Calm Air International,true
+MP,MP,MPH,Martinair,true
+MQ,MQ,ENY,Envoy Air,true
+N2,N2,LNT,Aerolineas Internacionales,false
+MR,MR,MRT,Air Mauritanie,false
+N3,N3,MAF,Aerolineas MAS,true
+MS,MS,MSR,EgyptAir,+20 090070000,true
+N4,N4,TNB,Trans Air Benin,false
+MT,Great Western Aviation,false
+N5,N5,SGY,Skagway Air,false
+MU,MU,CES,China Eastern Airlines,+86 21 95108,true
+N6,N6,AYL,Alpine Air,true
+UV*,UV,UVA,Universal Airways,true
+MV,MV,RML,Armenian International Airways,false
+N7,N7,Lagun Air,false
+MW,MW,MUL,Mokulele Airlines,true
+N8,N8,NCR,National Airlines,true
+MX,MX,MXA,Mexicana,+52 55 5448-0990,false
+N9,N9,QNK,Kabo Air,true
+MY,M7,MAA,LATAM Cargo Mexico,true
+QN*,QN,ARR,Air Armenia,true
+MZ,MZ,MNA,Merpati,false
+MEG,LV,MEG,MEGA Maldives Airlines,true
+MEI,MEI,Merlin Airways,true
+NA,NA,NAO,North American Airlines,true
+MEM,MEM,ICAR,true
+NB,NB,SNB,Sterling European,+45 70 33 33 70,false
+NC,NC,NAC,Northern Air Cargo,true
+ND,Airlink,false
+NE,NE,ESK,Skyeurope Airlines,false
+DU*,DU,NLH,Norwegian Long Haul,true
+NF,NF,AVN,Air Vanuatu,678 238 48,true
+NG,NG,LDA,Lauda Air,false
+NH,NH,ANA,ANA,1-800-235-9262,true
+NI,NI,PGA,Portugalia Airlines,(+351) 218 938 070,true
+NJ,NJ,VGD,Nordisk Aviation,false
+NK,NK,NKS,Spirit Airlines,800-772-7117,true
+NL,NL,SAI,Shaheen Air International,true
+NM,NM,Manx2,false
+NN,NN,MOV,VIM Airlines,true
+NO,NO,NOS,Neos,true
+DTS,DH,DTS,Douniah Airlines,true
+NP,NP,NIA,Nile Air,true
+NQ,NQ,AJX,Air Japan,true
+O2,O2,JEA,OLT Express Regional,false
+NR,NR,PIR,Pamir Air,false
+O3,O3,CSS,SF Airlines,true
+NS,NS,HBH,Hebei Airlines,true
+O4,O4,ABV,Antrak Air,true
+NT,NT,IBB,Binter Canarias,902 391 392,true
+NU,NU,JTA,Japan Transocean Air,true
+O6,O6,ONE,Avianca Brazil,true
+NV,NV,CRF,Air Central,false
+O7,O7,ORG,Orenburzhye,true
+NW,NW,NWA,Northwest Airlines,1-800-225-2525,false
+O8,O8,OHK,Axis Lines,false
+UW*,UW,Uni-Top Airlines,true
+V8*,V8,IAR,Iliamna Air Taxi,true
+NX,NX,AMU,Air Macau,true
+O9,O9,NOV,Nova Airways,true
+NY,NY,FXI,Air Iceland,true
+NZ,NZ,ANZ,Air New Zealand,1-800-262-1234,true
+QO*,QO,OGN,Origin Pacific Airways,false
+MFG,8G,MFG,Fly Mid Africa,true
+DUB,DUB,Dubai Air Wing,true
+OA,OA,OAL,Olympic Air,+30 210 35 50 500,true
+OB,OB,BOV,BoA,true
+OC,OC,ORC,Oriental Air Bridge,true
+OD,OD,NCO,Natalco Airlines,false
+OE,OE,CCE,Cairo Aviation,true
+OF,OF,FIF,Air Finland,false
+OG,OG,ONX,Air Onix,true
+E7*,E7,ESF,Estafeta,true
+OH,OH,COM,Comair,false
+OI,OI,Italia Tour Airlines,false
+OJ,OJ,OLA,Overland Airways,true
+OK,OK,CSA,CSA,+1 (866) 293-8702,true
+QNZ,QNZ,Jetconnect,true
+OL,OL,OLT,OLT Express Germany,true
+OM,OM,MGL,Miat - Mongolian Airlines,true
+ON,ON,RON,Our Airline,true
+OO,OO,SKW,SkyWest Airlines,true
+P0,P0,PFZ,Proflight Zambia,true
+OP,Olympic Airlines,false
+P1,P1,PublicCharters.com,true
+OQ,Scoot,false
+P2,P2,XAK,Airkenya,true
+ZA*,ZA,SWM,Sky Angkor,true
+OR,OR,TFL,ArkeFly,true
+P3,2Z,PTB,Passaredo,true
+OS,OS,AUA,Austrian,1-800-843-0002,true
+P4,P4,NSO,Aerolineas Sosa,true
+OT,OT,PEL,Aeropelican Air Services,false
+P5,P5,RPB,Copa Airlines Colombia,true
+OU,OU,CTN,Croatia Airlines,+385 1 487 27 27,true
+P6,P6,PSC,Pascan Aviation,true
+V9*,V9,Citywing,true
+OV,OV,ELL,Estonian Air,false
+P7,P7,ESL,Russian Sky Airlines,true
+OW,OW,EXK,Executive Airlines,true
+P8,P8,MKG,Air Mekong,true
+OX,OX,OEA,Orient Thai Airlines,true
+P9,P9,PVN,Peruvian Airlines,true
+OY,OY,ANS,Andes Lineas Aereas,true
+OZ,OZ,AAR,Asiana Airlines,1-800-227-4262,true
+PA,PA,FCL,Florida Coastal Airlines,false
+PB,PB,SPR,Provincial Airlines,true
+PC,PC,PGT,Pegasus,true
+PD,PD,POE,Porter Airlines,888-619-8622,true
+PE,PE,PHB,Phoebus Apollo Aviation,true
+PF,PF,PRI,Primera Air Scandinavia,true
+PG,PG,BKP,Bangkok Airways,true
+PH,PH,Transavia Denmark,false
+PI,PI,SUF,Fiji Link,true
+PJ,PJ,SPM,Air Saint-Pierre,true
+A0*,A0,THJ,Thai Jet,false
+PK,PK,PIA,Pakistan International Airlines,+92 111-786-786,true
+PL,PL,Airstars Airways,false
+PM,PM,CNF,Canary Fly,true
+PN,PN,CHB,West Air (China),true
+PO,PO,PAC,Polar Air Cargo,true
+PP,PP,PJS,Jet Aviation,true
+DVR,DVR,Divi Divi Air,true
+PQ,PQ,APG,Philippines AirAsia,true
+Q2,Q2,DQA,Maldivian,true
+PR,PR,PAL,Philippine Airlines,true
+Q3,Q3,MAZ,Zambian Airways,false
+PS,PS,AUI,UIA,true
+Q4,Q4,TLK,Starlink Aviation,true
+PT,PT,SWN,West Air,true
+Q5,Q5,MLA,40-Mile Air,true
+PU,PU,PUA,PLUNA,false
+Q6,Q6,SKP,Skytrans,true
+PV,PV,SBU,Saint Barth Commuter,true
+Q7,Q7,SBM,SkyBahamas,true
+PW,PW,PRF,Precision Air,true
+Q8,Q8,PEC,Pacific East Asia Cargo,false
+UY*,UY,CSG,Air Caucasus,false
+PX,PX,ANG,Air Niugini,true
+Q9,Q9,NAK,Arik Niger,false
+PY,PY,SLM,Surinam Airways,true
+PZ,PZ,LAP,LATAM Airlines Paraguay,true
+QA,QA,CIM,Cimber,true
+QB,QB,GFG,Sky Georgia,true
+QC,QC,CRD,Air Corridor,false
+QD,QD,AeroVIP (Uruguay),true
+QE,QE,Crossair Europe,false
+QF,QF,QFA,Qantas,+61 2 9691 3636,true
+QG,QG,GBB,Global Aviation,false
+DWI,DW,DWI,Dominican Wings,true
+QH,QH,LYN,Air Kyrgyzstan,true
+QI,QI,Cimber AS,+45 70 10 12 18,false
+MHS,E9,MHS,Air Memphis,true
+QJ,QJ,Jet Airways,true
+MHV,M2,MHV,MHS Aviation,true
+QK,QK,JZA,Jazz,true
+QL,QL,LER,LASER Airlines,true
+QM,QM,AML,Air Malawi,true
+QO,QO,MPX,AeroMexico Cargo,true
+R0,R0,RPK,Royal Airlines,true
+QP,QP,SLT,Starlight Airlines,true
+DWT,F7,DWT,Darwin Airline,true
+QQ,QQ,UTY,Alliance Airlines,true
+R2,R2,ORB,ORENAIR,true
+QR,QR,QTR,Qatar Airways,+1 877 777 2827,true
+R3,R3,SYL,Yakutia,true
+QS,QS,TVS,SmartWings,true
+R4,R4,Tulpar Avia Service,false
+QT,QT,TPA,Avianca Cargo,true
+R5,R5,Malta Air Charter,false
+QU,QU,UTN,Azur Air Ukraine,true
+R6,R6,DNU,DOT LT,true
+QV,QV,LAO,Lao Airlines,true
+R7,R7,OCA,Aserca Airlines,true
+3W*,3W,Malawian Airlines,true
+QW,QW,Blue Wings,false
+R8,R8,KGA,Kyrgyzstan Airlines,false
+QX,QX,QXE,Horizon Air,true
+R9,R9,TAF Linhas Aereas,false
+QY,QY,BCS,EAT Leipzig,true
+QZ,QZ,AWQ,Indonesia AirAsia,true
+IAE,IO,IAE,IrAero,true
+RA,RA,RNA,Nepal Airlines,true
+RB,RB,SYR,Syrian Air,true
+RC,RC,FLI,Atlantic Airways,true
+RD,RN,RYN,Ryan International Airlines,false
+RE,RE,REA,Stobart Air,true
+RF,RF,FWL,Florida West International Airways,true
+RG,RG,VRG,Varig,4003-7000,false
+RH,RH,Robin Hood Aviation,false
+RI,RI,MDL,Tigerair Mandala,false
+RJ,RJ,RJA,Royal Jordanian,true
+RK,RK,Region-Avia,false
+RL,RL,Air Charter,false
+RM,RM,MLV,Regional Air,false
+RN,RN,EUH,Air Horizons,false
+RO,RO,ROT,TAROM,true
+S0,S0,OKS,Slok Air,false
+RP,RP,CHQ,Chautauqua Airlines,true
+RQ,RQ,KMF,Kam Air,true
+S2,S2,JLL,JetKonnect,true
+RR,RR,RFR,Royal Air Force,true
+S3,S3,BBR,SBA Airlines,true
+RS,RS,SKV,Sky Regional,true
+S4,S4,RZO,Azores Airlines,true
+RT,RT,LRT,Airlines of South Australia,false
+S5,S5,TCF,Shuttle America,true
+RU,RU,ABW,AirBridgeCargo,true
+S6,S6,Salmon Air,true
+RV,IV,CPN,Caspian Airlines,true
+S7,S7,SBI,S7 Airlines,8-800-200-000-7,true
+3X*,3X,Premier Trans Aire,true
+RW,Republic Airline,false
+S8,S8,CAH,Charlan Air,false
+RX,RX,RGE,Regent Airways,true
+S9,S9,IKM,Starbow,true
+RY,RY,EXC,European Executive Express,false
+RZ,RZ,LRS,SANSA Regional,true
+R4*,R4,RLB,RUS Aviation,true
+MJL,MJL,Jet Line International,false
+SA,SA,SAA,South African Airways,+27 11 978 5313,true
+SB,SB,ACI,Aircalin,true
+SC,SC,CDG,Shandong Airlines,0531-96777,true
+DYE,DYE,Dynamic Airlines,false
+SD,SD,SUD,Sudan Airways,true
+SE,SE,XLF,XL Airways France,true
+SF,SF,DTH,Tassili Airlines,true
+SG,SG,SEJ,SpiceJet,true
+SH,SH,Sharp Airlines,true
+SI,SI,BCI,Blue Islands,true
+SJ,SJ,SJY,Sriwijaya Air,true
+SK,SK,SAS,SAS,+1 800-221 2350,true
+SL,SL,RSL,Rio-Sul,false
+IBT,IBT,Ibertrans Aerea,true
+SM,SM,Spirit of Manila Airlines,false
+SN,SN,BEL,Brussels Airlines,1 516 740 5200,true
+SO,SO,HKA,Superior Aviation,true
+T0,T0,TPU,TACA Peru,true
+SP,SP,SAT,SATA - Air Acores,true
+SQ,SQ,SIA,Singapore Airlines,+1 800 7423333,true
+T2,T2,Thai Air Cargo,false
+SR,SR,Swissair,false
+T3,T3,EZE,Eastern Airways,true
+QSC,QSC,African Safari Airways,false
+SS,SS,CRL,Corsair,true
+T4,T4,TIB,TRIP Linhas Aereas,false
+ST,ST,GMI,Germania,true
+T5,T5,TUA,Turkmenistan Airlines,true
+SU,SU,AFL,Aeroflot,+7 495 223-55-55,true
+T6,T6,RNX,1time,false
+SV,SV,SVA,Saudia,1-800-472-8342,true
+T7,T7,TJT,Twin Jet,true
+SW,SW,NMB,Air Namibia,true
+T8,T8,STA,false
+SX,SX,SRK,SkyWork Airlines,true
+T9,T9,TRZ,TMA,false
+QT*,QT,Regional Air,false
+SY,SY,SCX,Sun Country Airlines,800-359-6786,true
+MKD,6F,MKD,MAT Airways,false
+SZ,SZ,Air Southwest,false
+MKG,P8,MKG,Air Mekong (duplicate),false
+TA,TA,TAI,TACA,1-800-400-TACA,true
+ID*,ID,BTK,Batik Air,true
+TB,TB,TUB,TUI Airlines Belgium,false
+TC,TC,ATC,Air Tanzania,true
+TD,TD,LUR,Atlantis European Airways,true
+TE,TE,LIL,FlyLAL,false
+TF,TF,SCW,Braathens Regional Airlines,true
+TG,TG,THA,Thai Airways International,800-426-5204,true
+TH,TH,RMY,Raya Airways,true
+TI,TI,TOL,TOL Airways,false
+TJ,TJ,GPD,Tradewind Aviation,true
+TK,TK,THY,Turkish Airlines,+90 212 444 0 849,true
+TL,N2,TMA,TMA Cargo,true
+TM,TM,LAM,LAM,true
+TN,TN,THT,Air Tahiti Nui,true
+TO,TO,TVF,Transavia France,true
+TP,TP,TAP,TAP Portugal,800 221-7370,true
+TQ,TQ,TDM,Tandem Aero,true
+U2,U2,EZY,easyJet,+08 71 244 2366,true
+TR,TR,TGW,Tigerair Singapore,true
+U3,U3,AIA,Avies,true
+TS,TS,TSC,Air Transat,true
+U4,U4,PMT,Progress Multitrade,false
+ZF*,Atlantic Airlines,false
+TT,TT,Tigerair Australia,true
+U5,U5,GWY,USA 3000 Airlines,1-877-872-3000,false
+TU,TU,TAR,Tunisair,00 216 71 941 285,true
+U6,U6,SVR,Ural Airlines,true
+TV,TV,TBA,Tibet Airlines,+32 70 35 36 37,true
+U7,U7,UGB,Air Uganda,false
+3Z*,3Z,NEC,Necon Air,false
+TW,TW,TWA,TWA,false
+U8,U8,RNV,Armavia,true
+TX,TX,FWI,Air Caraibes,877.772-1005,true
+U9,U9,TAK,Tatarstan Aircompany,true
+TY,TY,TPC,Air Caledonie,true
+TZ,TZ,SCO,Scoot,+65 3158 3388,true
+UA,UA,UAL,United Airlines,1-800-864-8331,true
+UB,UB,UBA,Myanma National Airlines,true
+UC,UC,LCO,LATAM Cargo Chile,true
+UD,UD,HER,Hex'Air,true
+UE,UE,NasAir (Eritrea),true
+UF,UF,UKM,UM Air,true
+UG,UG,TUX,TunisAir Express,true
+UH,UH,EUS,Eurasia Aircompany,false
+MLT,MLT,Maleth Aero,true
+UI,UI,ECA,Eurocypria Airlines,false
+UJ,UJ,LMU,AlMasria,true
+UK,UK,UKA,KLM uk,false
+UL,UL,ALK,SriLankan Airlines,+94 19733 5555,true
+UM,UM,AZW,Air Zimbabwe,true
+UN,UN,TSO,Transaero Airlines,true
+UO,UO,HKE,Hong Kong Express,true
+V0,V0,VCV,Conviasa,true
+UP,UP,BHS,Bahamasair,true
+UQ,UQ,SJU,SkyJet Aviation,false
+V2,V2,RBY,Vision Airlines,true
+UR,UR,UTX,UTair-Express,false
+V3,V3,KRP,Carpatair,true
+8D*,8D,Servant Air,true
+US,US,AWE,US Airways,1-800-943-5436,true
+V4,V4,VEC,Vensecar International,true
+UT,UT,UTA,UTair,true
+V5,V5,VPA,DanubeWings,true
+QUE,QUE,Gouvernement Du Quebec,true
+UU,UU,REU,Air Austral,true
+V6,V6,Air Atlantique,false
+UV,UV,INR,INAER,true
+V7,V7,SNG,Air Senegal International,false
+UW,UW,UVG,Universal Airlines,false
+V8,V8,VAS,Atran,true
+UX,UX,AEA,Air Europa,1.800.238.7672,true
+V9,V9,HCW,Star1 Airlines,false
+UY,UY,Cameroon Airlines,false
+UZ,UZ,BRQ,Buraq Air,true
+VA,VA,VOZ,Virgin Australia,true
+IF*,IF,FBA,Fly Baghdad,true
+VB,VB,VIV,VivaAerobus,true
+MML,MR,MML,Hunnu Air,true
+VC,VC,AGC,Air Australia,false
+VD,VD,KPA,Henan Airlines,true
+VE,VE,VLE,CAI Second,true
+VF,VF,VLU,Valuair,true
+VG,VG,VLM,VLM,true
+VH,VH,ALV,Aeropostal,true
+VI,VI,VDA,Volga-Dnepr,true
+VJ,VJ,Jatayu Airlines,false
+A6*,A6,HTU,HongTu Airlines,true
+VK,VK,VGN,Virgin Nigeria,false
+VL,VL,NRV,Sonicblue Airways,false
+VM,VM,MCJ,Macair Jet,true
+VN,VN,HVN,Vietnam Airlines,true
+VO,VO,TYR,Tyrolean Airways,false
+VP,VP,VSP,VASP,false
+MMZ,YU,MMZ,euroAtlantic Airways,true
+VQ,VQ,Viking Hellas Airlines,false
+W2,W2,FXT,FlexFlight,true
+VR,VR,TCV,TACV,true
+W3,W3,ARA,Arik Air,true
+8E*,8E,EFX,Easy Fly Express,true
+VS,VS,VIR,Virgin Atlantic,true
+W4,W4,LCB,LC Peru,true
+VT,VT,VTA,Air Tahiti,+689 40 86 42 42,true
+W5,W5,IRM,Mahan Air,true
+VU,VU,VUN,Air Ivoire,false
+W6,W6,WZZ,Wizz Air,true
+VV,VV,AEW,Aerosvit Airlines,true
+W7,W7,SAH,Sayakhat Airlines,false
+VW,VW,TAO,Aeromar,true
+W8,W8,CJT,Cargojet,true
+VX,VX,VRD,Virgin America,true
+W9,W9,Sky Service,true
+VY,VY,VLG,Vueling,true
+VZ,VZ,VEL,Velvet Sky,false
+IFA,F3,IFA,FAI rent-a-jet,true
+QW*,QW,QDA,Qingdao Airlines,true
+MNG,M0,MNG,Aero Mongolia,true
+MNI,MNI,Maina Air,false
+MNL,MNL,MiniLiner,true
+WA,WA,KLC,KLM Cityhopper,true
+WB,WB,RWD,RwandAir,true
+WC,WC,ISV,Islena Airlines,true
+WD,WD,AAN,Amsterdam Airlines,false
+IFL,IFL,IFL Group,true
+WE,WE,CWC,Centurion Cargo,true
+WF,WF,WIF,Wideroe,+47 81001200,true
+WG,WG,Westex,false
+WH,WH,WEB,WebJet,false
+WI,WI,TDX,Tradewinds Airlines,false
+WJ,WJ,LAL,Air Labrador,1.800.563.3042,true
+WK,American Falcon,false
+WL,WL,APP,Aeroperlas,false
+IFT,IFT,Interflight,true
+WM,WM,WIA,Winair,(866) 466-0410,true
+WN,WN,SWA,Southwest Airlines,1-800-435-9792,true
+WO,WO,WOA,World Airways,true
+WP,WP,MKU,Island Air,true
+WQ,WQ,RMV,ROMAVIA,false
+WR,WR,HRH,Royal Tongan Airlines,false
+X3,X3,TUI,TUIfly,+49 0900 1099595,true
+WS,WS,WJA,WestJet,1-888-937-8538,true
+X4,X4,Air Excursions,true
+WT,WT,NGA,Nigeria Airways,false
+X5,X5,FBN,Afrique Airlines,false
+WU,WU,WAU,Wizz Air Ukraine,true
+WV,WV,WAI,Wings Air,false
+X7,X7,Exec Air,true
+WW,WW,BMI,bmibaby,+ 44 870 126 6726,false
+X8,X8,Icaro,false
+WX,WX,BCY,Cityjet,true
+X9,X9,NVD,JSC Avion Express,true
+WY,WY,OMA,Oman Air,true
+WZ,WZ,RWZ,Red Wings,true
+XA,XA,XAA,ARINC,true
+XC,XC,KDC,KD Air,true
+XE,XE,KEA,Korea Express Air,true
+XF,XF,VLK,Vladavia,true
+XG,XG,SXD,SunExpress Deutschland,true
+XJ,XJ,MES,Mesaba Aviation,false
+XK,XK,CCM,Air Corsica,true
+XL,XL,LNE,LATAM Airlines Ecuador,true
+XM,XM,SMX,C.A.I. First,false
+XN,XN,XAR,Xpressair,true
+VAA,VAA,Brighton City Airways,false
+XO,XO,CXJ,China Xinjiang Airlines,false
+Y0,Y0,Yellow Airtaxi,false
+XP,XP,CXP,Xtra Airways,true
+XQ,XQ,SXS,SunExpress,true
+Y2,Y2,GSM,Flyglobespan,false
+XR,XR,OZW,Virgin Australia Regional,true
+Y4,Y4,VOI,Volaris,true
+XT,XT,SKT,SkyStar,false
+Y5,Y5,PCE,Pace Airlines,false
+XU,XU,AXK,African Express Airways,true
+Y6,Y6,BTV,Batavia Air,false
+XV,XV,Ivoire Airways,false
+Y7,Y7,SLR,Silverjet,false
+XW,XW,CXH,China Xinhua Airlines,true
+Y8,Y8,YZR,Yangtze River Express,true
+VAL,BF,VIN,Vincent Aviation,true
+Y9,Y9,IRK,Kish Air,true
+XY,XY,KNE,flynas,true
+XZ,XZ,EXY,SA Express,true
+MPE,Air Norterra,false
+VAP,VAP,Phuket Air,true
+N2*,Kabo Airlines,false
+YA,YA,Federation Air,false
+MPK,I6,MPK,Air Indus,true
+YB,YB,South African Express Airways,false
+YC,YC,LLM,Yamal Airlines,true
+YD,YD,Mauritania Airways,false
+VAX,ZV,VAX,V Air,true
+YE,YE,Yanda Airlines,false
+YG,YG,OTL,South Airlines,true
+EA*,EA,EHN,East Horizon Airlines,true
+YH,YH,AYG,Yangon Airways,true
+YI,YI,RSI,Air Sunshine,true
+YJ,YJ,AMC Airlines,false
+YK,YK,KYV,KTHY,false
+YL,Yamal Airlines,false
+YM,YM,MGX,Montenegro Airlines,true
+YN,YN,CRQ,Air Creebec,true
+YO,YO,MCM,Heli Air Monaco,true
+YP,YP,AEF,Aero Lloyd,false
+YQ,YQ,POT,Aircompany Polet,false
+Z2,Z2,EZD,Philippines AirAsia,true
+ZK*,ZK,ZAV,Aircompany ZetAvia,true
+YR,YR,SCE,Scenic Airlines,true
+Z3,Z3,Promech Air,true
+YS,YS,RAE,HOP!-REGIONAL,true
+Z4,Z4,OOM,Zoom Airlines,false
+YT,YT,NYT,Yeti Airlines,true
+Z5,Z5,GMG Airlines,false
+VC*,VC,VAL,Voyageur Airways,true
+YU,YU,ADM,Dominair,false
+Z6,Z6,UDN,Dniproavia,true
+YV,YV,ASH,Mesa Airlines,true
+Z7,YK,AVJ,Avia Traffic Company,true
+YW,YW,ANE,Air Nostrum,true
+Z8,Z8,Mali Airways,true
+YX,YX,RPA,Republic Airlines,true
+Z9,Aero Zambia,false
+IIA,I7,IIA,Inter Iles Air,true
+YZ,YZ,Holland Exel,false
+EAA,KR,EAA,Air Bishkek,true
+EAB,E2,EAB,Eagle Atlantic Airlines,true
+ZA,ZA,Interavia Airlines,false
+ZB,ZB,MON,Monarch Airlines,true
+ZC,ZC,RSN,Royal Swazi National Airways,false
+EAG,EAG,Eagle Airways,true
+ZD,ZD,Dolphin Air,false
+EAF,EAF,Palmair,false
+ZE,ZE,ESR,EASTAR JET,true
+ZF,ZF,ATW,Athens Airways,false
+ZG,ZG,VVM,Viva Macau,false
+EAK,6Z,EAK,Euro-Asia Air,true
+ZH,ZH,CSZ,Shenzhen Airlines,+86 400-88-08666,true
+ZI,ZI,AAF,Aigle Azur,true
+ZJ,ZJ,ZMA,Zambezi Airlines,false
+EAL,EA,EAL,Eastern Air Lines,true
+ZK,ZK,GLA,Great Lakes Airlines,1-800-554-5111,true
+ZL,ZL,RXA,Rex Regional Express,true
+ZN,ZN,NAY,NAYSA,true
+ZO,ZO,OZR,Great Plains Airlines,false
+ZP,ZP,STT,Air St. Thomas,false
+ZQ,WAL,World Atlantic Airlines,true
+ZR,ZR,Punto Azul,true
+8I*,8I,NLU,InselAir Aruba,true
+ZS,ZS,SMY,Sama Airlines,false
+ZT,ZT,Air Zambezi,false
+ZU,ZU,BBT,Bashkortavia,true
+ZV,ZV,AMW,Air Midwest,false
+4A*,4A,AKL,Air Kiribati,true
+MRA,MRA,Martinaire,true
+ZW,ZW,AWI,Air Wisconsin,true
+ZX,ZX,GGN,Air Georgian,true
+ZY,EF,EZA,Eznis Airways,false
+N4*,N4,NWS,Nordwind Airlines,true
+EBF,EBF,MSR Flug Charter,false
+IK*,IK,KAR,Ikar,true
+ZM*,ZM,CNB,Cityline Hungary,true
+IJW,K8,IJW,InterJet West,true
+MSA,M4,MSA,Mistral Air,true
+MSC,SM,MSC,Air Cairo,true
+MSF,MSF,Minsheng International Jet,true
+N5*,N5,NRL,Nolinor,true
+MSM,MSM,Aeromas,true
+ED*,ED,AXE,Air Explore,true
+ECO,8J,ECO,EcoJet,true
+VEC,Venezolana Servicios Expresos,false
+8K*,8K,KMI,K-Mile Air,true
+4C*,C4,CGK,Click Airways,true
+VEL,VZ,VEL,Velvet Sky Aviation (dup),false
+VER,VER,Almaver,false
+N6*,N6,Bay Air Aviation,true
+MTL,MTL,RAF-Avia,true
+VES,V4,VES,Vieques Air Link,true
+MTN,C2,MTN,Mountain Air Cargo,true
+EDR,8W,EDR,Fly All Ways,true
+8L*,8L,RHC,Redhill Aviation,true
+MUA,5M,MUA,Murray Air,false
+EDW,WK,EDW,Edelweiss Air,true
+IN*,IN,Nam Air,true
+EF*,EF,Fly CamInter,true
+IMP,HT,IMP,Hellenic Imperial Airways,false
+IMX,XM,IMX,Zimex Aviation,true
+ZP*,ZP,AZQ,Silk Way Airlines,true
+VGI,VGI,Virgin Atlantic International,true
+VGO,E3,VGO,NewGen Airways,true
+MVI,MVI,Harrods Aviation,true
+INJ,INJ,InterJet Hellenic,true
+VGV,VGV,Vologda Air Company,true
+EG*,EG,ENJ,Enerjet,true
+INX,6K,INX,Inter Express,false
+8N*,4A,AJQ,Aerodynamics Inc.,true
+MWA,WV,MWA,Midwest Airlines,true
+EFY,EF,EFY,EasyFly,true
+N9*,N9,Nordic Solutions,false
+IP*,IP,Apsara International,true
+IOS,Isles of Scilly Skybus,false
+EGN,EGN,Eagle Aviation France,false
+VIB,VIB,Vibro Air Flugservice,true
+EGS,E3,EGS,Prima - Aero Transporti Italiani,false
+ZR*,ZR,AZS,Aviacon Zitotrans,true
+RAC,RAC,Ryukyu Air Commuter,true
+MXD,OD,MXD,Malindo Air,true
+VIL,V6,VIL,VI Airlink,true
+VIK,Viking Airlines,false
+VIM,VL,VIM,Air Via,true
+MY*,MY,MXJ,MAXjet,false
+VIT,MV,VIT,Aviastar,true
+VIV,Viva Aerobus,false
+IQ*,IQ,Qazaq Air,true
+RAT,RT,RAT,Rainbow Airlines,true
+RAX,RAX,Royal Air Charter,true
+VJC,VJ,VJC,VietJet Air,true
+ZS*,ZS,KZS,Kazaviaspas,true
+VK*,VK,Val Air,false
+RBG,E5,RBG,Air Arabia Egypt,true
+MYD,2M,MYD,Maya Island Air,true
+AAB,AAB,Abelag Aviation,true
+AAG,AAG,Air Atlantique,true
+AAI,AAI,Air Aurora,true
+MYX,MYX,SmartLynx Airlines Estonia,true
+AAS,Q3,AXL,Anguilla Air Services,true
+AAT,AAT,Austrian Air Transport,false
+MZA,IH,MZA,Sapsan Air,true
+VL*,VL,MEV,Med View Airlines,true
+AAV,8Y,AAV,Astro Air International,true
+AAZ,AAZ,Aeolus Air,true
+IRG,IRG,Iranian Naft Airlines,true
+IS*,IS,PNX,AIS Airlines,true
+J4*,J4,BDR,Badr Airlines,true
+IRO,IRO,CSA Air,true
+EJM,EJM,Executive Jet Management,true
+IRQ,QB,IRQ,Qeshm Air,true
+RCY,RCY,"Package Express, Inc.",true
+ZU*,ZU,SNR,Sun Air,true
+ABQ,PA,ABQ,Airblue,true
+IRY,IRY,Eram Air,true
+VLI,VLI,Avolar Airlines,false
+VM*,VM,NGL,Max Air,true
+4J*,4J,FDK,Flydamas,true
+ABW,AirBridgeCargo,false
+ABX,Airborne Express,false
+EKA,E7,EKA,Equaflight Service,true
+EKG,L8,EKG,Afric Aviation,true
+ACO,ACO,Aero Comondu,true
+ACP,8V,ACP,Astral Aviation,true
+ACS,ACS,ASSL,true
+ACT,ACT,Flight Line,true
+REG,8N,REG,Regional Air,true
+ELB,EL,ELB,Ellinair,true
+ADB,ADB,Antonov Airlines,true
+ITI,T6,ITI,AirSWIFT,true
+IU*,IU,CSW,SW Italia,true
+J6*,J6,OPS,Jet-Ops,true
+EM*,EM,Aero Benin,false
+REX,REX,"Ram Air Freight, Inc.",false
+ADI,ADI,Audeli Air Express,false
+ADN,ADN,Aero Dienst,true
+VNE,AW,VNE,Venezolana,true
+RFJ,RL,RFJ,Royal Falcon,true
+J7*,J7,Afrijet,true
+AEG,AEG,Airest,true
+AEP,AEP,AEROTEC,true
+VOE,V7,VOE,Volotea,true
+ZX*,ZX,EVAS,false
+4M*,4M,LNC,Lan Dominicana,false
+AEU,Iceland Express,false
+VOI,Volaris,false
+VP*,VP,VQI,Flyme,true
+AEY,I9,AEY,Air Italy,true
+RGN,Cygnus Air,false
+RGR,3R,RGR,Avior Regional,true
+IW*,IW,OAN,Aerospace One,false
+AG*,AG,ARU,Aruba Airlines,true
+VPA,DanubeWings,false
+VPB,VPB,Veteran Air,true
+ENT,E4,ENT,Enter Air,true
+VQ*,VQ,NVQ,Novoair,true
+AFW,AW,AFW,Africa World Airlines,true
+IWD,ID,IWD,Orbest,false
+W21,Canadian Wester,false
+AGO,AGO,Angola Air Charter,true
+RIE,RIE,Ariella Airlines,true
+W3*,W3,Flyhy Cargo Airlines,false
+NAC,Northern Air Cargo,false
+RIG,RIG,Riga Airlines,true
+AGY,EO,AGY,Air Go Egypt,true
+RIN,RIN,Airline Transport Incorporation,false
+EPA,DZ,EPA,Donghai Airlines,true
+NB*,NB,EAN,Skypower Express Airways,true
+RIO,RIO,Rio Linhas Aereas,true
+AHC,AHC,AZAL Avia Cargo,true
+RIV,GP,RIV,APG Airlines,true
+F2*,F2,XLK,Safarilink,true
+NAS,NAS,NASA,true
+NAW,NAW,Newair,false
+EPR,EPR,Express Airways,true
+VRE,HF,VRE,Air Cote D'Ivoire,true
+EPS,EPS,Epps Air Service,true
+VRD,Virgin America,false
+RJD,RG,RJD,Rotana Jet,true
+4P*,4P,Travel Air,true
+AHW,S8,AHW,SkyAir,true
+AHX,MZ,AHX,Amakusa Air,true
+NC*,Northern Air Cargo,false
+AIB,AIB,Airbus Industrie,true
+F3*,6K,SGB,Songbird Airways,true
+AJ*,AJ,AZY,Aztec Airways,true
+AIJ,Interjet,false
+AIK,AIK,African Airlines,false
+AIN,AIN,African International Airways,false
+8Y*,CF,CYZ,China Postal Airlines,true
+RKA,PI,RKA,Polar Airlines,true
+AIS,XG,AIS,clickair,false
+VSG,VSG,AirClass Airways,false
+NCB,NCB,North Cariboo Air,true
+IZA,IZA,Izhavia (duplicate),false
+RL*,RL,Royal Phnom Penh Airways,false
+VSR,VSR,Aviostart,true
+ERA,ERA,Aerotaxis Tucan,true
+ND*,ND,FMI Air,true
+RKM,RT,RKM,RAK Airways,false
+IZG,IZG,Zagros Airlines,true
+AJA,AnadoluJet,false
+ES*,ES,DHX,DHL Aviation EEMEA,true
+F4*,F4,SHQ,Shanghai Airlines Cargo,false
+ERL,5Y,Express Rail LInk,true
+AJI,7Z,AJI,Ameristar Jet Charter,true
+AJK,4W,AJK,Allied Air,true
+ERO,7L,Sun d'Or,false
+VTE,LF,VTE,Corporate Flight Management,true
+VU*,VU,VAR,VECA,true
+4R*,RL,ABG,Royal Flight Airlines,true
+VTK,VTK,Vostok Airlines,true
+VTM,VTM,Aeronaves TSM,true
+RLK,RLK,Air Nelson,true
+NE*,NE,NMA,Nesma Airlines,true
+RLR,RLR,AirNow,true
+F5*,F5,Fly540 Angola,false
+RLU,7R,RLU,RusLine (Duplicate),false
+AL*,AL,ALD,Air Leisure,true
+VUE,VUE,AD Aviation,false
+W7*,W7,WLB,Wings of Lebanon,true
+AKY,AKY,Yak Service,false
+RN*,RN,Paradise Air,false
+RMK,RMK,Simrik Airlines,true
+VUR,V6,VUR,Vuelos Internos Privados VIP S.A.,false
+ALC,ALC,American Linehaul Corporation,true
+NEP,N7,NEP,Neptune Air,true
+ETJ,EG,ETJ,East Air,true
+ETR,E4,ETR,Estelar,true
+VVC,FC,VVC,VivaColombia,true
+ALO,ALO,Allegheny Airlines,false
+ALS,K4,ALW,ALS,true
+ALV,Alas de Venezuela,false
+AMF,A8,AMF,Ameriflight,true
+EUK,5A,EUK,Air Atlanta Europe,false
+AMK,AMK,Amerer Air,false
+EUW,EUW,EFS European Flight Service,true
+AMS,AMS,ASTA Linhas Aereas,true
+W9*,W9,JAB,Air Bagan,true
+AMV,MZ,AMV,AMC Airlines,true
+NGF,NGF,Angel Flight America,true
+EVE,E9,EVE,Evelop Airlines,true
+EVJ,EVJ,Everjets,true
+F8*,F8,FLE,Flair Airlines,true
+NGT,RM,NGT,Aircompany Armenia,true
+AO*,AO,Air One Aviation,true
+ANQ,ANQ,Aerolinea de Antioquia (ADA),true
+ANR,YE,ANR,YanAir,true
+ANS,Andes Lineas Aereas,false
+ANU,Andalus,false
+NHG,N7,NHG,Brava Linhas Aereas,true
+EWE,EWE,Eurowings Europe,true
+EX*,EX,BJK,Atlantic Airlines,true
+RPX,RPX,BAC Express Airlines,false
+EWR,ZD,EWR,EWA Air,true
+AOS,AOS,Aeros Flight Training,true
+VZ*,VZ,LIZ,MyTravel Lite,false
+JAC,LK,Aircompany Continent,false
+JAF,TB,JAF,Jetairfly,true
+JAE,JI,JAE,Jade Cargo,false
+JAG,JAG,Jetalliance Flugbetriebs,true
+NIN,6N,NIN,Niger Airlines,true
+APB,APB,Air Atlantique,false
+APC,APC,Airpac Airlines,true
+APF,HP,APF,Amapola,true
+EXL,EXL,Exclusive Air,false
+AQ*,AQ,9 Air Co,true
+APJ,MM,APJ,Peach Aviation,true
+JAV,R5,JAV,Jordan Aviation,true
+EXT,EXT,Nightexpress,true
+4X*,4X,MEC,Mercury World Cargo,true
+NJE,NJE,NetJets Europe,true
+RS*,RS,ASV,Air Seoul,true
+JBE,JBE,Sino Jet (Beijing),true
+EZ*,EZ,SUS,Sun-Air,true
+NJS,NC,NJS,Cobham Aviation,true
+B3*,B3,BTN,Tashi Air,true
+JBW,3J,JBW,Jubba Airways (Kenya),true
+RSC,RSC,Canarias Airlines,true
+AQU,AQU,AirQuarius Aviation,false
+RSE,RSE,SNAS Aviation,true
+RT*,RT,Rutges Cargo,false
+RSO,E4,RSO,Aero Asia International,false
+ARF,Aerofer,false
+B4*,B4,BKA,Bankair,true
+RSY,H5,RSY,iFly Airlines,true
+ARN,ARN,Aeronexus,true
+JCX,JCX,Jet Connection,false
+ARW,J6,ARW,Jamaica Air Shuttle,false
+S6*,S6,KSZ,Sunrise Airways,true
+RTM,7T,RTM,Trans AM,true
+NLK,NLK,Elbrus-Avia Air,false
+RTQ,RT,RTQ,Air Turquoise,false
+RUC,5R,RUC,Rutaca Airlines,true
+ASY,ASY,Royal Australian Air Force,true
+RV*,RV,ROU,Air Canada rouge,true
+JEF,JEF,Jetflite,true
+JF*,JF,JAA,Jet Asia Airways,true
+JEM,JEM,Emerald Airways,false
+ATG,F5,ATG,Aerotrans Cargo,true
+ATM,ATM,Par Avion Airlines,true
+ATN,8C,ATN,ATI,true
+ATV,ATV,Avanti Air,true
+S8*,C9,SWZ,Skywise,true
+JG*,JG,JetGo Australia,true
+RVP,WV,RVP,Aero Vip (Portugal),true
+JFU,8J,JFU,Jet4You,false
+NOK,5E,SGN,Nok Mini,false
+WAA,WAA,Westair Aviation (Namibia),true
+WAE,WAE,Western Air Express,true
+WAF,F4,WAF,Air Flamenco,true
+RY*,RY,CJX,Jiangxi Airlines,true
+JI*,JI,Meraj Air,true
+RXP,RXP,RAM Express,true
+AWC,ZT,AWC,Titan Airways,true
+FA*,FA,SFR,Safair,true
+B9*,BD,Cambodia Bayon Airlines,true
+NPT,NPT,Atlantic Airlines,true
+AWK,AWK,Airwork (NZ),true
+AWN,AWN,Air Niamey,true
+9H*,9H,Chang'an Airlines,true
+AWS,AWS,Arab Wings,true
+AWV,AWV,Airwave Transport,false
+JIA,OH,JIA,PSA Airlines,true
+9GR,9G,9G Rail,true
+O3*,O3,Orange Air,true
+FAH,FAH,ASL Airlines Hungary,true
+RYW,RY,RYW,Royal Wings,true
+FAO,FAO,Falcon Air,true
+AXN,AXN,Alexandair,false
+FAT,FT,FAT,ASL Airlines Switzerland,true
+RZA,RZA,Royal Zimbabwe Airlines,true
+NRA,N5,Norfolk Air,false
+NRC,NRC,North Sea Airways,true
+FBC,7B,FBC,Fly Blue Crane,true
+AYD,Y6,AYD,AB Aviation,true
+FC*,FC,FCX,Falcon Express Cargo,true
+WDA,9C,WDA,Wimbi Dira,false
+5B*,5B,KZE,Euro-Asia International,false
+WE*,WE,THD,Thai Smile,true
+WDL,WDL,WDL Aviation,true
+NSH,NS Hispeed,true
+NSJ,NSJ,Nanshan Jet,true
+AZI,A2,AZI,Astra Airlines,true
+AZM,AZM,Aerocozumel,false
+WEB,Webjet,false
+AZP,ZP,AZP,Amaszonas del Paraguay,true
+9K*,9K,AMZ,Amiyi Airlines,true
+FCV,FCV,Nav Air Charter,true
+5C*,5C,NRR,Nature Air,true
+WEN,WR,WEN,WestJet Encore,true
+FDA,JH,FDA,Fuji Dream Airlines,true
+NTH,NTH,Hokkaido Air System,true
+NTJ,NextJet,false
+NTL,NTL,Air National,false
+WEW,WEW,Pronto Airways,true
+9L*,9L,WLN,West Link Airlines,true
+5D*,5D,DBR,V Bird,false
+JN*,JN,NLV,New Livingston,true
+9M*,9M,MIH,Massy Airlines,true
+WH*,WH,WSF,Westair Benin,true
+NVI,NVI,Avial,false
+O8*,O8,SQM,Siam Air,true
+NVR,N9,NVR,Novair,true
+FFP,FFP,Prima Charter,false
+5F*,5F,ODM,Pan African Airways,true
+NWG,NWG,AirWing,true
+WHT,WI,WHT,White Airways,true
+NWK,NWK,Network Aviation,true
+FGE,9Y,FGE,Fly Georgia,true
+JON,JON,Jonair,true
+WIG,WIG,Wiggins Airways,true
+5G*,5G,FOX,Fly540 Ghana,true
+FHE,HW,FHE,Hello,false
+FHY,FH,FHY,Freebird Airlines,true
+FIA,5F,FIA,Fly One,true
+BAB,Bahrain Air,false
+K3*,K3,SAQ,Safe Air Company,true
+BAC,BAC,BAC Leasing,false
+BAF,BAF,Belgian Air Force,true
+SBW,SBW,Snowbird Airlines,true
+BAI,4B,BTQ,Boutique Air,true
+9Q*,9Q,CXE,Caicos Express Airways,true
+FIV,FIV,CitationAir,true
+WL*,WL,ECB,European Coastal Airlines,true
+BAX,8W,BAX Global,false
+BAY,BAY,Bravo Airways,true
